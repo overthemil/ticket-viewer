@@ -8,24 +8,31 @@ import Dashboard from "@/routes/Dashboard"
 import Queues from "@/routes/Queues";
 import Wiki from "./routes/Wiki";
 import Calendar from "./routes/Calendar";
+import MainLayout from "./layouts/MainLayout";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Dashboard />,
+    element: <MainLayout />,
+    children: [
+      {
+        path: "/",
+        element: <Dashboard />,
+      },
+      {
+        path: "/queues",
+        element: <Queues />
+      },
+      {
+        path: "/calendar",
+        element: <Calendar />
+      },
+      {
+        path: "/wiki",
+        element: <Wiki />
+      }
+    ],
   },
-  {
-    path: "/queues",
-    element: <Queues />
-  },
-  {
-    path: "/calendar",
-    element: <Calendar />
-  },
-  {
-    path: "/wiki",
-    element: <Wiki />
-  }
 ]);
 
 function App() {
