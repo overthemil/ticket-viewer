@@ -8,6 +8,7 @@ function Notifications() {
   const notImplemented = () => {
     toast({
       description: "Not Implemeneted",
+      duration: 1000,
     })
   };
 

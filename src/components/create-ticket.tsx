@@ -14,6 +14,7 @@ function CreateTicket() {
   const notImplemented = () => {
     toast({
       description: "Not Implemeneted",
+      duration: 1000,
     })
   };
 
