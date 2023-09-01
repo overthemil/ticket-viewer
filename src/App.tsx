@@ -6,11 +6,13 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card"
+import { ModeToggle } from "./components/mode-toggle"
 
 function App() {
   return (
     <>
-      <Card className="bg-blue-50">
+      <ModeToggle />
+      <Card className="bg-secondary">
         <CardHeader>
           <CardTitle>Card Title</CardTitle>
           <CardDescription>Card Description</CardDescription>
