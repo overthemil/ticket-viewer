@@ -1,33 +1,12 @@
+import { NavbarLink } from "@/interfaces/NavbarLink";
 import { cn } from "@/lib/utils"
 import { Link, useLocation } from "react-router-dom";
 
-const links = [
-  {
-    id: 0,
-    label: "Dashboard",
-    href: "/"
-  },
-  {
-    id: 1,
-    label: "Queues",
-    href: "/queues"
-  },
-  {
-    id: 2,
-    label: "Calendar",
-    href: "/calendar"
-  },
-  {
-    id: 3,
-    label: "Wiki",
-    href: "/wiki"
-  },
-];
+interface NavbarLinksProps extends React.HTMLAttributes<HTMLElement> {
+  links: NavbarLink[],
+}
 
-function NavbarLinks({
-  className,
-  ...props
-}: React.HTMLAttributes<HTMLElement>) {
+const NavbarLinks: React.FC<NavbarLinksProps> = ({links, className, ...props}) => {
   let location = useLocation();
 
   return (
