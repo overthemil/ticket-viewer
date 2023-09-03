@@ -22,7 +22,7 @@ function CreateTicket() {
     <TooltipProvider>
     <Tooltip>
       <TooltipTrigger>
-        <Button onClick={notImplemented} variant="outline" size="icon">
+        <Button onClick={notImplemented} variant="outline" size="icon" className="min-w-[2.5rem]">
           <Plus className="h-[1.2rem] w-[1.2rem]" />
           <span className="sr-only">Create Ticket</span>
         </Button>

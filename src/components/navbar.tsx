@@ -36,7 +36,7 @@ function Navbar() {
       <div className="flex h-16 items-center px-4">
         <h1 className="hidden md:flex text-3xl font-bold tracking-tight">TicketViewer</h1>
         <NavbarLinks links={links} className="hidden mx-6 md:flex"/>
-        <NavbarMobile links={links} className="md:hidden"/>
+        <NavbarMobile links={links} className="md:hidden mr-4"/>
         <div className="ml-auto flex items-center space-x-4">
           <Search />
           <CreateTicket />

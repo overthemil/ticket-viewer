@@ -25,6 +25,7 @@ import {
 
 import { DataTablePagination } from "@/components/data-table/data-table-pagination"
 import { DataTableToolbar } from "@/components/data-table/data-table-toolbar"
+import { useNavigate } from "react-router-dom"
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[]
@@ -42,6 +43,7 @@ export function DataTable<TData, TValue>({
     []
   )
   const [sorting, setSorting] = React.useState<SortingState>([])
+  const navigate = useNavigate();
 
   const table = useReactTable({
     data,
@@ -94,6 +96,8 @@ export function DataTable<TData, TValue>({
                 <TableRow
                   key={row.id}
                   data-state={row.getIsSelected() && "selected"}
+                  onClick={() => navigate(`/ticket/${row.getValue("id")}`)}
+                  className="cursor-pointer"
                 >
                   {row.getVisibleCells().map((cell) => (
                     <TableCell key={cell.id}>

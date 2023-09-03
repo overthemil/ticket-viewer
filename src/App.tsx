@@ -9,6 +9,7 @@ import Queues from "@/routes/Queues";
 import Wiki from "./routes/Wiki";
 import Calendar from "./routes/Calendar";
 import MainLayout from "./layouts/MainLayout";
+import Ticket from "./routes/Ticket";
 
 const router = createBrowserRouter([
   {
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: "/wiki",
         element: <Wiki />
+      },
+      {
+        path: "/ticket/*",
+        element: <Ticket />
       }
     ],
   },
