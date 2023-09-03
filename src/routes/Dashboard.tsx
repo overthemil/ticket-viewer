@@ -1,11 +1,12 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import MainDashboard from "@/pages/dashboard/MainDashboard";
 
 const tabs = [
   {
     id: 0,
     value: "dashboard",
     label: "Dashboard",
-    element: <h1> Dashboard </h1>,
+    element: <MainDashboard />,
     mobile: true,
   },
   {
@@ -55,7 +56,7 @@ function Dashboard() {
             )}
           </TabsList>
           {tabs.map((tab) => 
-            <TabsContent key={tab.id} value={tab.value} className="space-y-4">{tab.element}</TabsContent>
+            <TabsContent key={tab.id} value={tab.value} className="space-y-4 my-6 mx-auto max-w-[1500px]">{tab.element}</TabsContent>
           )}
         </Tabs>
       </div>

@@ -5,6 +5,8 @@ import { Separator } from "@/components/ui/separator";
 import { Bug, Equal } from "lucide-react";
 import data from '@/schemas/ticket-comments.json';
 import { TicketComment } from "@/interfaces/TicketComment";
+import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
+import { Textarea } from "@/components/ui/textarea";
 
 function TicketActions() {
   return (
@@ -56,6 +58,18 @@ function Ticket() {
               <CommentCard comment={comment}/>
             )
           }
+          <Card>
+            <CardHeader className="p-3 bg-card-header">
+              Write Comment
+            </CardHeader>
+            <CardContent>
+              <Textarea className="mt-6" placeholder="Type your message here"/>
+            </CardContent>
+            <CardFooter className="flex justify-between">
+              <div> </div>
+              <Button>Submit</Button>
+            </CardFooter>
+          </Card>
         </div>
       </div>
     </>
