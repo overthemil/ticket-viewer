@@ -1,7 +1,7 @@
 function Wiki() {
   return (
     <>
-      <h1>Wiki</h1>
+      <h1> Wiki </h1>
     </>
   );
 };

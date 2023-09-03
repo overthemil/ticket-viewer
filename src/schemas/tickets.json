@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 69510,
+    "summary": "transition killer bandwidth",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2023-05-22T14:52:25.393Z",
+    "resolvedDateTime": "2020-02-29T09:19:33.408Z",
+    "lastModifiedDateTime": "2020-06-28T22:15:36.117Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 86844,
+    "summary": "productize extensible metrics",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2020-06-14T23:10:21.183Z",
+    "resolvedDateTime": "2020-06-12T08:05:16.351Z",
+    "lastModifiedDateTime": "2021-11-21T13:59:15.161Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 18830,
+    "summary": "enhance extensible networks",
+    "type": "incident",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2022-05-30T21:03:45.513Z",
+    "resolvedDateTime": "2023-03-11T16:22:27.518Z",
+    "lastModifiedDateTime": "2022-02-20T18:04:49.030Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 80186,
+    "summary": "incubate front-end portals",
+    "type": "service",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2021-07-31T20:02:04.788Z",
+    "resolvedDateTime": "2020-07-03T17:07:08.630Z",
+    "lastModifiedDateTime": "2020-12-23T11:48:20.488Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 66007,
+    "summary": "deploy clicks-and-mortar paradigms",
+    "type": "incident",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2021-12-03T04:59:19.660Z",
+    "resolvedDateTime": "2021-04-14T07:04:15.590Z",
+    "lastModifiedDateTime": "2021-11-01T01:24:25.907Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 73816,
+    "summary": "revolutionize innovative bandwidth",
+    "type": "service",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2021-08-08T10:27:38.328Z",
+    "resolvedDateTime": "2023-05-15T09:13:00.593Z",
+    "lastModifiedDateTime": "2020-10-04T07:42:41.873Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 39039,
+    "summary": "engage one-to-one deliverables",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2020-11-24T21:44:17.865Z",
+    "resolvedDateTime": "2020-06-08T16:42:35.442Z",
+    "lastModifiedDateTime": "2021-09-24T00:39:47.050Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 36545,
+    "summary": "seize revolutionary initiatives",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2023-07-07T20:08:17.373Z",
+    "resolvedDateTime": "2022-09-17T07:28:42.350Z",
+    "lastModifiedDateTime": "2020-06-26T16:36:06.764Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 74202,
+    "summary": "e-enable impactful e-markets",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2020-06-25T23:41:04.656Z",
+    "resolvedDateTime": "2022-01-23T05:06:44.503Z",
+    "lastModifiedDateTime": "2022-03-21T05:51:56.066Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    }
+  },
+  {
+    "id": 44822,
+    "summary": "transform holistic deliverables",
+    "type": "phone",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2020-02-23T15:49:03.537Z",
+    "resolvedDateTime": "2023-01-02T18:06:24.344Z",
+    "lastModifiedDateTime": "2020-06-23T03:53:35.977Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 95568,
+    "summary": "matrix interactive platforms",
+    "type": "incident",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2021-05-22T20:24:46.409Z",
+    "resolvedDateTime": "2020-01-04T18:22:53.834Z",
+    "lastModifiedDateTime": "2023-06-13T15:27:05.952Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 60636,
+    "summary": "matrix interactive communities",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2020-06-26T15:54:15.190Z",
+    "resolvedDateTime": "2022-09-16T16:14:35.176Z",
+    "lastModifiedDateTime": "2021-01-07T08:36:10.308Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 50579,
+    "summary": "matrix one-to-one action-items",
+    "type": "phone",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2022-06-18T11:12:35.598Z",
+    "resolvedDateTime": "2023-05-08T12:49:20.591Z",
+    "lastModifiedDateTime": "2020-01-11T23:45:18.511Z",
+    "reporter": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 43842,
+    "summary": "optimize synergistic portals",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2021-10-23T19:04:20.272Z",
+    "resolvedDateTime": "2022-05-01T19:47:31.789Z",
+    "lastModifiedDateTime": "2020-04-02T14:10:12.485Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 77536,
+    "summary": "innovate sticky systems",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2023-06-06T07:06:32.364Z",
+    "resolvedDateTime": "2020-07-15T08:53:31.748Z",
+    "lastModifiedDateTime": "2022-12-12T23:54:49.714Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 37715,
+    "summary": "harness clicks-and-mortar eyeballs",
+    "type": "incident",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2023-08-30T17:31:27.633Z",
+    "resolvedDateTime": "2022-01-23T14:28:22.029Z",
+    "lastModifiedDateTime": "2021-12-15T16:19:01.931Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 32294,
+    "summary": "engineer viral supply-chains",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2022-09-17T04:20:00.225Z",
+    "resolvedDateTime": "2020-05-26T19:47:00.128Z",
+    "lastModifiedDateTime": "2021-05-20T11:51:21.156Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 12609,
+    "summary": "engage collaborative metrics",
+    "type": "incident",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2021-07-20T23:25:23.715Z",
+    "resolvedDateTime": "2021-08-06T06:10:08.232Z",
+    "lastModifiedDateTime": "2022-02-24T02:28:00.862Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 56849,
+    "summary": "morph mission-critical infrastructures",
+    "type": "phone",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2020-07-06T11:54:23.213Z",
+    "resolvedDateTime": "2020-04-27T21:07:33.292Z",
+    "lastModifiedDateTime": "2021-03-28T18:39:11.690Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 94480,
+    "summary": "utilize efficient niches",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2022-05-17T06:14:31.989Z",
+    "resolvedDateTime": "2021-12-16T02:06:46.383Z",
+    "lastModifiedDateTime": "2021-09-17T19:03:52.669Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 91747,
+    "summary": "unleash integrated blockchains",
+    "type": "phone",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2022-05-17T12:48:49.090Z",
+    "resolvedDateTime": "2021-10-17T06:00:26.239Z",
+    "lastModifiedDateTime": "2021-06-07T17:57:17.630Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 41716,
+    "summary": "engineer cutting-edge relationships",
+    "type": "incident",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2022-08-22T14:22:33.870Z",
+    "resolvedDateTime": "2022-08-11T12:32:42.239Z",
+    "lastModifiedDateTime": "2023-01-05T21:55:34.417Z",
+    "reporter": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    },
+    "assignee": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    }
+  },
+  {
+    "id": 52511,
+    "summary": "monetize B2B niches",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2023-03-31T14:27:03.220Z",
+    "resolvedDateTime": "2022-11-16T07:29:18.578Z",
+    "lastModifiedDateTime": "2021-06-24T23:26:01.674Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 54317,
+    "summary": "drive global web services",
+    "type": "phone",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2023-03-27T04:52:01.512Z",
+    "resolvedDateTime": "2022-08-05T23:15:53.060Z",
+    "lastModifiedDateTime": "2021-04-19T13:31:53.659Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    }
+  },
+  {
+    "id": 56200,
+    "summary": "brand open-source users",
+    "type": "service",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2020-06-14T11:00:39.918Z",
+    "resolvedDateTime": "2023-05-29T10:07:08.551Z",
+    "lastModifiedDateTime": "2020-04-08T22:06:43.005Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 21979,
+    "summary": "architect back-end channels",
+    "type": "phone",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2021-04-24T07:59:48.553Z",
+    "resolvedDateTime": "2022-01-19T16:40:33.219Z",
+    "lastModifiedDateTime": "2020-06-21T18:34:46.537Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 85887,
+    "summary": "incubate strategic channels",
+    "type": "service",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2023-02-10T14:02:21.731Z",
+    "resolvedDateTime": "2021-04-01T09:24:20.230Z",
+    "lastModifiedDateTime": "2021-04-02T08:54:48.962Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    }
+  },
+  {
+    "id": 51225,
+    "summary": "synthesize compelling channels",
+    "type": "phone",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2020-05-17T21:05:29.035Z",
+    "resolvedDateTime": "2023-01-19T21:36:05.342Z",
+    "lastModifiedDateTime": "2021-07-05T05:04:00.020Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 49368,
+    "summary": "morph frictionless eyeballs",
+    "type": "phone",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2020-09-21T02:21:38.468Z",
+    "resolvedDateTime": "2021-12-29T18:39:46.991Z",
+    "lastModifiedDateTime": "2020-09-30T10:42:13.338Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 32680,
+    "summary": "productize out-of-the-box paradigms",
+    "type": "phone",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2022-01-12T10:29:09.169Z",
+    "resolvedDateTime": "2022-04-22T11:13:23.987Z",
+    "lastModifiedDateTime": "2023-05-14T13:19:09.680Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 15333,
+    "summary": "utilize seamless networks",
+    "type": "incident",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2022-10-10T04:57:52.455Z",
+    "resolvedDateTime": "2023-08-12T04:25:01.045Z",
+    "lastModifiedDateTime": "2022-01-11T18:07:20.600Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 82634,
+    "summary": "leverage 24/7 experiences",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2022-07-24T16:52:25.453Z",
+    "resolvedDateTime": "2022-01-08T14:03:06.632Z",
+    "lastModifiedDateTime": "2022-10-11T18:03:48.644Z",
+    "reporter": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 65308,
+    "summary": "extend cross-platform models",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2021-08-04T03:58:38.314Z",
+    "resolvedDateTime": "2020-11-29T21:35:26.363Z",
+    "lastModifiedDateTime": "2021-06-28T13:06:51.863Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 41226,
+    "summary": "generate user-centric paradigms",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2020-06-18T15:05:25.072Z",
+    "resolvedDateTime": "2023-03-18T10:42:38.588Z",
+    "lastModifiedDateTime": "2022-09-29T08:26:31.976Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    }
+  },
+  {
+    "id": 84302,
+    "summary": "target innovative solutions",
+    "type": "incident",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2021-12-31T20:26:25.970Z",
+    "resolvedDateTime": "2023-02-09T22:26:34.003Z",
+    "lastModifiedDateTime": "2023-08-18T00:40:43.098Z",
+    "reporter": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    },
+    "assignee": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    }
+  },
+  {
+    "id": 80425,
+    "summary": "e-enable proactive e-markets",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2022-10-30T02:54:23.685Z",
+    "resolvedDateTime": "2020-03-27T15:52:03.022Z",
+    "lastModifiedDateTime": "2022-06-18T20:08:35.316Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 52530,
+    "summary": "expedite global infrastructures",
+    "type": "incident",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2023-04-03T06:30:55.332Z",
+    "resolvedDateTime": "2023-06-09T20:39:16.060Z",
+    "lastModifiedDateTime": "2020-05-14T06:52:39.354Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 47177,
+    "summary": "recontextualize open-source networks",
+    "type": "incident",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2021-03-28T16:15:03.025Z",
+    "resolvedDateTime": "2022-05-10T12:16:46.430Z",
+    "lastModifiedDateTime": "2023-06-15T02:37:07.379Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 55069,
+    "summary": "revolutionize robust e-markets",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2022-01-01T18:13:53.894Z",
+    "resolvedDateTime": "2020-01-13T12:42:55.816Z",
+    "lastModifiedDateTime": "2022-07-22T20:19:56.049Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    }
+  },
+  {
+    "id": 82687,
+    "summary": "facilitate frictionless solutions",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2020-04-09T04:37:39.486Z",
+    "resolvedDateTime": "2020-10-07T21:14:05.300Z",
+    "lastModifiedDateTime": "2020-04-24T09:56:01.290Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    }
+  },
+  {
+    "id": 10545,
+    "summary": "utilize collaborative convergence",
+    "type": "phone",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2023-08-05T20:02:31.276Z",
+    "resolvedDateTime": "2022-05-16T02:21:53.770Z",
+    "lastModifiedDateTime": "2021-01-22T10:37:03.441Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 39195,
+    "summary": "deploy bricks-and-clicks blockchains",
+    "type": "service",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2021-02-05T16:57:03.064Z",
+    "resolvedDateTime": "2021-09-17T22:38:02.501Z",
+    "lastModifiedDateTime": "2020-08-09T02:39:39.699Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 53693,
+    "summary": "drive one-to-one channels",
+    "type": "service",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2021-10-28T07:35:26.609Z",
+    "resolvedDateTime": "2022-02-24T00:14:19.512Z",
+    "lastModifiedDateTime": "2023-02-17T01:06:02.524Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 26120,
+    "summary": "synergize end-to-end partnerships",
+    "type": "incident",
+    "priority": "critical",
+    "status": "retail",
+    "createdDateTime": "2023-01-26T22:28:53.958Z",
+    "resolvedDateTime": "2021-03-14T22:39:36.200Z",
+    "lastModifiedDateTime": "2020-01-26T15:47:29.358Z",
+    "reporter": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 37061,
+    "summary": "visualize interactive ROI",
+    "type": "service",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2022-12-08T12:44:42.243Z",
+    "resolvedDateTime": "2020-10-04T14:10:32.764Z",
+    "lastModifiedDateTime": "2021-08-12T13:16:34.382Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 46949,
+    "summary": "scale ubiquitous deliverables",
+    "type": "service",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2021-01-16T06:18:26.592Z",
+    "resolvedDateTime": "2022-11-25T16:20:38.516Z",
+    "lastModifiedDateTime": "2021-08-18T14:04:48.335Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 56470,
+    "summary": "enhance compelling functionalities",
+    "type": "service",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2023-07-19T06:29:02.322Z",
+    "resolvedDateTime": "2022-09-07T17:27:53.026Z",
+    "lastModifiedDateTime": "2022-07-30T00:07:05.778Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    }
+  },
+  {
+    "id": 39568,
+    "summary": "architect granular bandwidth",
+    "type": "incident",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2020-11-03T19:20:07.456Z",
+    "resolvedDateTime": "2020-11-16T16:55:47.300Z",
+    "lastModifiedDateTime": "2023-02-26T21:57:03.375Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 86394,
+    "summary": "expedite plug-and-play infrastructures",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2020-03-14T07:35:18.235Z",
+    "resolvedDateTime": "2022-05-04T09:30:19.667Z",
+    "lastModifiedDateTime": "2022-11-09T11:12:11.735Z",
+    "reporter": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 32650,
+    "summary": "synthesize intuitive web services",
+    "type": "phone",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2020-07-01T12:27:47.043Z",
+    "resolvedDateTime": "2021-04-23T12:31:44.041Z",
+    "lastModifiedDateTime": "2023-03-23T00:29:43.265Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 18567,
+    "summary": "expedite sticky eyeballs",
+    "type": "incident",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2022-09-12T01:01:14.435Z",
+    "resolvedDateTime": "2020-09-04T12:18:28.494Z",
+    "lastModifiedDateTime": "2021-11-26T20:29:08.288Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 57224,
+    "summary": "transform virtual eyeballs",
+    "type": "service",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2022-05-23T20:17:26.529Z",
+    "resolvedDateTime": "2021-07-27T00:04:03.311Z",
+    "lastModifiedDateTime": "2022-02-11T23:27:50.776Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    }
+  },
+  {
+    "id": 44414,
+    "summary": "recontextualize interactive partnerships",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2022-09-23T05:57:09.781Z",
+    "resolvedDateTime": "2023-05-21T01:06:43.987Z",
+    "lastModifiedDateTime": "2020-08-08T14:50:49.885Z",
+    "reporter": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 11598,
+    "summary": "e-enable holistic schemas",
+    "type": "incident",
+    "priority": "minor",
+    "status": "retail",
+    "createdDateTime": "2021-04-10T21:36:31.857Z",
+    "resolvedDateTime": "2022-04-10T11:18:30.773Z",
+    "lastModifiedDateTime": "2023-01-23T20:00:40.864Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 36237,
+    "summary": "integrate granular mindshare",
+    "type": "phone",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2022-12-24T16:35:58.441Z",
+    "resolvedDateTime": "2023-05-08T08:42:07.940Z",
+    "lastModifiedDateTime": "2021-08-21T16:20:01.549Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 28020,
+    "summary": "implement cross-media solutions",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-pending",
+    "createdDateTime": "2022-08-08T17:05:11.084Z",
+    "resolvedDateTime": "2023-08-02T13:15:55.954Z",
+    "lastModifiedDateTime": "2023-02-22T04:22:34.495Z",
+    "reporter": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 22955,
+    "summary": "whiteboard turn-key communities",
+    "type": "phone",
+    "priority": "minor",
+    "status": "dev-pending",
+    "createdDateTime": "2022-05-11T16:37:16.545Z",
+    "resolvedDateTime": "2022-10-05T05:18:38.788Z",
+    "lastModifiedDateTime": "2022-04-10T16:52:24.109Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 80335,
+    "summary": "revolutionize granular applications",
+    "type": "service",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2022-03-29T23:37:48.508Z",
+    "resolvedDateTime": "2020-03-05T17:25:31.854Z",
+    "lastModifiedDateTime": "2020-03-20T19:40:20.463Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 22529,
+    "summary": "empower magnetic eyeballs",
+    "type": "service",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2021-10-03T12:01:54.953Z",
+    "resolvedDateTime": "2021-04-25T18:18:04.626Z",
+    "lastModifiedDateTime": "2021-10-07T13:23:41.285Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 39253,
+    "summary": "synthesize vertical experiences",
+    "type": "incident",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2022-01-15T06:39:37.299Z",
+    "resolvedDateTime": "2020-02-22T16:13:09.418Z",
+    "lastModifiedDateTime": "2022-04-18T07:16:35.305Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    }
+  },
+  {
+    "id": 35467,
+    "summary": "empower cross-media synergies",
+    "type": "service",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2020-03-08T01:45:56.472Z",
+    "resolvedDateTime": "2023-02-10T12:34:09.410Z",
+    "lastModifiedDateTime": "2023-05-10T12:24:45.210Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 83158,
+    "summary": "iterate wireless metrics",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2023-05-06T05:37:33.046Z",
+    "resolvedDateTime": "2022-12-26T18:54:39.041Z",
+    "lastModifiedDateTime": "2022-11-13T21:39:51.995Z",
+    "reporter": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 70491,
+    "summary": "extend global deliverables",
+    "type": "phone",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2020-08-21T15:37:19.962Z",
+    "resolvedDateTime": "2020-11-22T22:30:46.111Z",
+    "lastModifiedDateTime": "2022-10-17T04:13:27.523Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 29506,
+    "summary": "transition leading-edge eyeballs",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2022-12-30T13:31:08.769Z",
+    "resolvedDateTime": "2022-10-28T04:30:37.553Z",
+    "lastModifiedDateTime": "2020-02-02T07:33:54.281Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 52705,
+    "summary": "engineer e-business initiatives",
+    "type": "phone",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2023-05-28T04:40:51.680Z",
+    "resolvedDateTime": "2021-12-12T12:18:16.664Z",
+    "lastModifiedDateTime": "2022-02-01T13:40:41.314Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 70959,
+    "summary": "strategize bleeding-edge supply-chains",
+    "type": "incident",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2022-04-24T05:14:27.931Z",
+    "resolvedDateTime": "2020-04-25T18:12:55.301Z",
+    "lastModifiedDateTime": "2023-02-28T23:08:39.400Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 39313,
+    "summary": "grow sexy niches",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2020-03-03T05:32:59.908Z",
+    "resolvedDateTime": "2021-02-23T08:27:06.565Z",
+    "lastModifiedDateTime": "2022-10-11T00:03:49.881Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    }
+  },
+  {
+    "id": 35629,
+    "summary": "empower next-generation mindshare",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2020-12-20T12:51:29.873Z",
+    "resolvedDateTime": "2021-08-31T07:57:26.441Z",
+    "lastModifiedDateTime": "2023-08-02T19:51:22.577Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 46717,
+    "summary": "synthesize proactive supply-chains",
+    "type": "incident",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2020-05-22T17:16:12.077Z",
+    "resolvedDateTime": "2020-11-20T04:16:49.188Z",
+    "lastModifiedDateTime": "2020-08-12T23:56:00.290Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 24933,
+    "summary": "syndicate open-source technologies",
+    "type": "service",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2020-06-10T15:57:22.779Z",
+    "resolvedDateTime": "2020-11-22T04:39:15.093Z",
+    "lastModifiedDateTime": "2020-10-18T11:49:52.320Z",
+    "reporter": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 19978,
+    "summary": "embrace end-to-end methodologies",
+    "type": "phone",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2023-02-04T13:55:38.719Z",
+    "resolvedDateTime": "2021-06-20T16:37:05.590Z",
+    "lastModifiedDateTime": "2021-05-01T19:28:01.909Z",
+    "reporter": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 35164,
+    "summary": "disintermediate impactful partnerships",
+    "type": "incident",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2022-04-07T12:04:46.661Z",
+    "resolvedDateTime": "2022-05-25T15:21:53.416Z",
+    "lastModifiedDateTime": "2020-11-05T02:11:51.772Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 99152,
+    "summary": "leverage frictionless applications",
+    "type": "incident",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2022-03-08T21:10:17.532Z",
+    "resolvedDateTime": "2022-03-28T05:29:44.523Z",
+    "lastModifiedDateTime": "2021-09-29T07:55:51.388Z",
+    "reporter": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 44793,
+    "summary": "target next-generation functionalities",
+    "type": "incident",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2021-05-28T10:45:02.545Z",
+    "resolvedDateTime": "2021-03-09T14:58:40.626Z",
+    "lastModifiedDateTime": "2020-02-17T03:06:05.533Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 62149,
+    "summary": "enhance virtual paradigms",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2020-04-11T01:25:02.063Z",
+    "resolvedDateTime": "2022-04-26T03:32:27.207Z",
+    "lastModifiedDateTime": "2020-09-04T01:33:48.089Z",
+    "reporter": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 23951,
+    "summary": "architect scalable paradigms",
+    "type": "incident",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2023-06-16T21:11:55.057Z",
+    "resolvedDateTime": "2022-07-08T20:48:49.570Z",
+    "lastModifiedDateTime": "2021-04-27T12:31:40.975Z",
+    "reporter": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 48057,
+    "summary": "synergize dynamic metrics",
+    "type": "incident",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2021-02-21T12:09:08.193Z",
+    "resolvedDateTime": "2021-07-07T12:02:20.076Z",
+    "lastModifiedDateTime": "2021-11-16T09:44:14.011Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 75778,
+    "summary": "grow virtual mindshare",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2020-11-01T11:10:32.024Z",
+    "resolvedDateTime": "2021-11-24T02:32:08.148Z",
+    "lastModifiedDateTime": "2020-09-25T16:26:01.422Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 86140,
+    "summary": "incentivize enterprise initiatives",
+    "type": "service",
+    "priority": "critical",
+    "status": "retail",
+    "createdDateTime": "2020-02-08T02:05:18.059Z",
+    "resolvedDateTime": "2023-07-14T16:55:32.274Z",
+    "lastModifiedDateTime": "2021-01-27T05:08:55.696Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 47680,
+    "summary": "unleash scalable infrastructures",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2021-05-22T21:13:59.519Z",
+    "resolvedDateTime": "2022-02-10T10:44:59.991Z",
+    "lastModifiedDateTime": "2021-10-02T17:22:45.154Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    }
+  },
+  {
+    "id": 13841,
+    "summary": "streamline magnetic lifetime value",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2021-08-08T14:35:28.393Z",
+    "resolvedDateTime": "2023-01-22T12:14:48.352Z",
+    "lastModifiedDateTime": "2021-07-11T16:23:48.276Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 64260,
+    "summary": "engage user-centric systems",
+    "type": "incident",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2023-03-27T00:01:42.081Z",
+    "resolvedDateTime": "2020-04-06T21:50:05.142Z",
+    "lastModifiedDateTime": "2021-05-03T11:51:55.672Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 25682,
+    "summary": "engage sticky lifetime value",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2022-01-10T08:04:15.909Z",
+    "resolvedDateTime": "2021-03-18T19:51:10.972Z",
+    "lastModifiedDateTime": "2022-08-14T02:32:42.819Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 95296,
+    "summary": "reinvent impactful e-commerce",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2020-11-06T19:51:45.841Z",
+    "resolvedDateTime": "2022-09-12T04:59:48.648Z",
+    "lastModifiedDateTime": "2021-02-01T15:36:43.304Z",
+    "reporter": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 88388,
+    "summary": "unleash e-business relationships",
+    "type": "incident",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2021-06-19T10:12:30.476Z",
+    "resolvedDateTime": "2021-10-30T18:39:21.376Z",
+    "lastModifiedDateTime": "2023-02-16T21:30:58.362Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 21803,
+    "summary": "iterate out-of-the-box communities",
+    "type": "service",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2020-04-13T22:58:00.264Z",
+    "resolvedDateTime": "2021-05-05T20:15:38.944Z",
+    "lastModifiedDateTime": "2021-08-11T18:28:35.828Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 41914,
+    "summary": "streamline visionary experiences",
+    "type": "phone",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2023-05-29T14:56:50.514Z",
+    "resolvedDateTime": "2020-07-18T08:19:07.538Z",
+    "lastModifiedDateTime": "2021-08-20T17:28:42.155Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 61867,
+    "summary": "orchestrate magnetic models",
+    "type": "service",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2021-02-24T17:11:06.006Z",
+    "resolvedDateTime": "2020-02-27T00:17:31.384Z",
+    "lastModifiedDateTime": "2020-07-05T14:52:11.174Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 64920,
+    "summary": "monetize ubiquitous users",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2023-05-02T18:45:41.167Z",
+    "resolvedDateTime": "2021-07-17T15:02:49.513Z",
+    "lastModifiedDateTime": "2023-08-19T19:15:37.618Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 57265,
+    "summary": "strategize extensible niches",
+    "type": "service",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2023-05-29T07:27:02.336Z",
+    "resolvedDateTime": "2023-04-27T07:19:53.552Z",
+    "lastModifiedDateTime": "2020-05-16T16:30:28.561Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 45791,
+    "summary": "synthesize magnetic e-markets",
+    "type": "phone",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2020-12-20T05:19:43.930Z",
+    "resolvedDateTime": "2023-07-25T22:33:51.543Z",
+    "lastModifiedDateTime": "2023-08-10T07:14:27.138Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 26154,
+    "summary": "mesh end-to-end functionalities",
+    "type": "phone",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2022-12-03T05:37:14.296Z",
+    "resolvedDateTime": "2020-02-23T22:17:37.364Z",
+    "lastModifiedDateTime": "2022-08-20T15:54:54.256Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 32353,
+    "summary": "matrix visionary networks",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2022-06-14T01:47:21.770Z",
+    "resolvedDateTime": "2022-04-11T03:59:34.147Z",
+    "lastModifiedDateTime": "2023-08-25T21:55:23.249Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 40975,
+    "summary": "morph interactive networks",
+    "type": "service",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2022-08-30T23:07:05.328Z",
+    "resolvedDateTime": "2021-08-13T14:28:47.584Z",
+    "lastModifiedDateTime": "2022-05-23T16:18:08.518Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 85550,
+    "summary": "deliver dot-com supply-chains",
+    "type": "phone",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2021-02-26T22:02:00.201Z",
+    "resolvedDateTime": "2023-08-21T11:49:29.874Z",
+    "lastModifiedDateTime": "2022-10-18T18:04:33.132Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 92207,
+    "summary": "drive one-to-one relationships",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2023-06-29T00:17:44.511Z",
+    "resolvedDateTime": "2021-04-08T16:29:11.182Z",
+    "lastModifiedDateTime": "2021-10-05T12:41:37.627Z",
+    "reporter": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 79370,
+    "summary": "synergize compelling paradigms",
+    "type": "service",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2022-07-18T07:52:29.888Z",
+    "resolvedDateTime": "2022-05-22T19:41:36.226Z",
+    "lastModifiedDateTime": "2021-08-14T04:19:54.249Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 14642,
+    "summary": "engage end-to-end models",
+    "type": "incident",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2022-10-27T13:16:45.976Z",
+    "resolvedDateTime": "2023-02-01T10:15:54.465Z",
+    "lastModifiedDateTime": "2020-12-31T13:42:48.984Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 19503,
+    "summary": "matrix innovative paradigms",
+    "type": "service",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2023-02-25T06:15:14.035Z",
+    "resolvedDateTime": "2021-08-13T19:07:56.549Z",
+    "lastModifiedDateTime": "2022-12-27T06:04:18.439Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 65283,
+    "summary": "visualize integrated platforms",
+    "type": "service",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2020-03-07T15:20:11.207Z",
+    "resolvedDateTime": "2022-04-24T07:56:52.463Z",
+    "lastModifiedDateTime": "2020-11-25T13:57:03.403Z",
+    "reporter": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 93242,
+    "summary": "transform killer partnerships",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2022-05-17T12:32:37.424Z",
+    "resolvedDateTime": "2020-05-19T09:29:10.943Z",
+    "lastModifiedDateTime": "2020-12-07T11:39:55.334Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 97584,
+    "summary": "deploy efficient channels",
+    "type": "service",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2020-10-26T08:09:37.784Z",
+    "resolvedDateTime": "2022-11-26T04:40:27.027Z",
+    "lastModifiedDateTime": "2022-05-05T20:49:55.775Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 53195,
+    "summary": "incubate revolutionary communities",
+    "type": "incident",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2022-06-08T23:30:30.628Z",
+    "resolvedDateTime": "2021-07-04T03:41:30.924Z",
+    "lastModifiedDateTime": "2023-04-17T18:09:56.651Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 77146,
+    "summary": "maximize frictionless initiatives",
+    "type": "phone",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2020-02-03T05:24:40.697Z",
+    "resolvedDateTime": "2022-07-03T22:18:08.800Z",
+    "lastModifiedDateTime": "2023-07-07T12:00:51.574Z",
+    "reporter": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 26673,
+    "summary": "morph dot-com e-markets",
+    "type": "service",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2021-05-26T10:18:49.111Z",
+    "resolvedDateTime": "2021-11-06T11:00:04.162Z",
+    "lastModifiedDateTime": "2023-06-26T21:35:29.390Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 29206,
+    "summary": "incentivize world-class solutions",
+    "type": "incident",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2020-03-13T19:07:04.214Z",
+    "resolvedDateTime": "2023-02-25T11:18:47.030Z",
+    "lastModifiedDateTime": "2022-12-09T16:18:27.288Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 97018,
+    "summary": "innovate strategic web services",
+    "type": "phone",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2021-08-03T16:35:56.045Z",
+    "resolvedDateTime": "2022-04-09T22:22:12.924Z",
+    "lastModifiedDateTime": "2021-07-25T17:24:20.935Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 72801,
+    "summary": "reintermediate strategic metrics",
+    "type": "phone",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2023-04-02T21:54:13.865Z",
+    "resolvedDateTime": "2023-05-31T02:56:21.886Z",
+    "lastModifiedDateTime": "2023-06-09T16:09:59.743Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 88045,
+    "summary": "aggregate value-added mindshare",
+    "type": "service",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2021-08-02T20:16:14.314Z",
+    "resolvedDateTime": "2023-05-24T08:36:19.974Z",
+    "lastModifiedDateTime": "2022-04-29T05:07:52.078Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    }
+  },
+  {
+    "id": 72592,
+    "summary": "productize open-source architectures",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2021-04-13T06:33:59.807Z",
+    "resolvedDateTime": "2022-06-26T13:53:36.181Z",
+    "lastModifiedDateTime": "2021-11-22T10:38:51.130Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 62413,
+    "summary": "syndicate cross-platform eyeballs",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2021-02-12T21:04:23.919Z",
+    "resolvedDateTime": "2022-01-15T16:18:35.177Z",
+    "lastModifiedDateTime": "2023-05-14T19:21:43.262Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 18182,
+    "summary": "exploit ubiquitous applications",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2022-09-23T09:41:23.627Z",
+    "resolvedDateTime": "2022-10-13T20:34:29.084Z",
+    "lastModifiedDateTime": "2023-03-17T16:17:17.101Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 36401,
+    "summary": "facilitate cutting-edge markets",
+    "type": "service",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2021-07-14T16:12:45.874Z",
+    "resolvedDateTime": "2021-09-17T06:31:32.614Z",
+    "lastModifiedDateTime": "2022-05-05T09:52:25.186Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 79450,
+    "summary": "aggregate leading-edge technologies",
+    "type": "service",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2023-08-06T10:08:41.377Z",
+    "resolvedDateTime": "2021-03-10T14:37:33.359Z",
+    "lastModifiedDateTime": "2023-04-04T00:52:45.802Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 75706,
+    "summary": "visualize out-of-the-box niches",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2023-01-04T00:41:05.843Z",
+    "resolvedDateTime": "2020-07-07T10:36:47.871Z",
+    "lastModifiedDateTime": "2022-07-22T21:25:00.273Z",
+    "reporter": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 20307,
+    "summary": "reintermediate value-added markets",
+    "type": "phone",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2022-04-29T03:00:57.920Z",
+    "resolvedDateTime": "2020-05-18T07:20:01.060Z",
+    "lastModifiedDateTime": "2021-09-13T22:55:03.939Z",
+    "reporter": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 90149,
+    "summary": "matrix transparent action-items",
+    "type": "service",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2021-07-31T18:24:18.890Z",
+    "resolvedDateTime": "2020-11-16T04:18:52.389Z",
+    "lastModifiedDateTime": "2020-01-05T08:49:50.321Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 21510,
+    "summary": "monetize viral content",
+    "type": "service",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2022-01-27T06:14:37.056Z",
+    "resolvedDateTime": "2021-01-18T05:01:50.477Z",
+    "lastModifiedDateTime": "2022-08-21T07:27:07.304Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 87941,
+    "summary": "matrix synergistic ROI",
+    "type": "service",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2021-03-06T12:38:07.897Z",
+    "resolvedDateTime": "2023-01-08T22:27:29.341Z",
+    "lastModifiedDateTime": "2021-04-19T18:03:12.778Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 41240,
+    "summary": "envisioneer global users",
+    "type": "service",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2021-06-25T17:20:42.700Z",
+    "resolvedDateTime": "2022-12-27T11:28:46.575Z",
+    "lastModifiedDateTime": "2020-09-29T04:41:00.328Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 24507,
+    "summary": "expedite turn-key relationships",
+    "type": "phone",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2022-12-15T02:06:34.393Z",
+    "resolvedDateTime": "2022-03-31T13:53:26.901Z",
+    "lastModifiedDateTime": "2023-07-04T06:02:21.699Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 18392,
+    "summary": "integrate distributed methodologies",
+    "type": "service",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2021-09-05T04:36:40.839Z",
+    "resolvedDateTime": "2020-04-02T11:08:25.391Z",
+    "lastModifiedDateTime": "2021-02-16T18:50:09.254Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 92550,
+    "summary": "syndicate synergistic experiences",
+    "type": "service",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2021-01-01T02:45:59.980Z",
+    "resolvedDateTime": "2021-05-29T19:56:07.094Z",
+    "lastModifiedDateTime": "2023-04-16T07:53:19.326Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 81450,
+    "summary": "disintermediate revolutionary solutions",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2020-01-02T09:07:04.441Z",
+    "resolvedDateTime": "2023-01-15T13:25:07.120Z",
+    "lastModifiedDateTime": "2020-11-12T05:34:29.309Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    }
+  },
+  {
+    "id": 12431,
+    "summary": "cultivate killer lifetime value",
+    "type": "incident",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2023-02-16T10:47:55.519Z",
+    "resolvedDateTime": "2020-06-02T04:24:19.623Z",
+    "lastModifiedDateTime": "2020-10-25T17:41:53.081Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 73472,
+    "summary": "e-enable integrated niches",
+    "type": "incident",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2023-06-30T11:48:26.128Z",
+    "resolvedDateTime": "2022-11-03T21:57:16.684Z",
+    "lastModifiedDateTime": "2021-08-12T04:28:27.258Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 39890,
+    "summary": "e-enable next-generation e-commerce",
+    "type": "service",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2020-10-14T20:18:40.002Z",
+    "resolvedDateTime": "2022-08-31T20:25:58.581Z",
+    "lastModifiedDateTime": "2021-10-11T20:34:27.244Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    }
+  },
+  {
+    "id": 81625,
+    "summary": "extend cross-media channels",
+    "type": "service",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2022-12-25T02:18:25.721Z",
+    "resolvedDateTime": "2022-05-17T10:14:10.740Z",
+    "lastModifiedDateTime": "2021-09-12T23:31:07.074Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 35413,
+    "summary": "visualize interactive relationships",
+    "type": "incident",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2020-09-23T08:08:05.222Z",
+    "resolvedDateTime": "2020-06-18T06:47:48.982Z",
+    "lastModifiedDateTime": "2022-10-21T14:06:48.816Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 52476,
+    "summary": "repurpose collaborative supply-chains",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2021-06-29T04:24:17.744Z",
+    "resolvedDateTime": "2021-07-25T21:30:12.508Z",
+    "lastModifiedDateTime": "2023-05-16T19:46:50.433Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 42973,
+    "summary": "facilitate vertical networks",
+    "type": "incident",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2020-05-22T20:44:03.484Z",
+    "resolvedDateTime": "2023-02-13T22:38:25.067Z",
+    "lastModifiedDateTime": "2023-05-07T06:56:12.700Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 94810,
+    "summary": "envisioneer ubiquitous markets",
+    "type": "service",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2020-04-03T04:14:02.222Z",
+    "resolvedDateTime": "2020-05-06T04:55:50.062Z",
+    "lastModifiedDateTime": "2020-04-22T18:18:33.984Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    }
+  },
+  {
+    "id": 65912,
+    "summary": "drive world-class technologies",
+    "type": "service",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2020-07-15T19:25:35.195Z",
+    "resolvedDateTime": "2020-06-13T16:52:26.716Z",
+    "lastModifiedDateTime": "2020-09-08T13:22:31.201Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 30637,
+    "summary": "generate revolutionary technologies",
+    "type": "service",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2022-05-01T07:01:27.247Z",
+    "resolvedDateTime": "2021-08-07T19:52:24.304Z",
+    "lastModifiedDateTime": "2022-07-12T07:17:47.142Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 82549,
+    "summary": "monetize global partnerships",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2022-09-30T22:47:23.231Z",
+    "resolvedDateTime": "2020-07-22T10:45:46.135Z",
+    "lastModifiedDateTime": "2023-08-20T08:26:07.780Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    }
+  },
+  {
+    "id": 82089,
+    "summary": "synthesize enterprise initiatives",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2021-12-24T00:34:41.129Z",
+    "resolvedDateTime": "2021-11-25T11:24:30.298Z",
+    "lastModifiedDateTime": "2023-03-25T23:24:07.267Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    }
+  },
+  {
+    "id": 30016,
+    "summary": "morph web-enabled web services",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2021-01-12T06:39:27.627Z",
+    "resolvedDateTime": "2020-06-21T16:27:29.134Z",
+    "lastModifiedDateTime": "2023-06-18T14:27:31.722Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    }
+  },
+  {
+    "id": 31347,
+    "summary": "e-enable cross-media supply-chains",
+    "type": "service",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2022-09-22T12:07:31.113Z",
+    "resolvedDateTime": "2021-10-13T08:36:40.206Z",
+    "lastModifiedDateTime": "2020-12-22T14:35:00.838Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    }
+  },
+  {
+    "id": 77506,
+    "summary": "syndicate efficient paradigms",
+    "type": "service",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2020-02-25T20:13:40.678Z",
+    "resolvedDateTime": "2021-04-03T11:31:20.815Z",
+    "lastModifiedDateTime": "2023-01-20T10:47:51.706Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 39986,
+    "summary": "disintermediate end-to-end metrics",
+    "type": "service",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2022-05-03T19:08:00.891Z",
+    "resolvedDateTime": "2020-06-03T05:48:21.217Z",
+    "lastModifiedDateTime": "2022-01-08T16:08:14.581Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 20874,
+    "summary": "synthesize ubiquitous relationships",
+    "type": "incident",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2020-03-03T22:59:42.951Z",
+    "resolvedDateTime": "2020-07-20T13:18:49.168Z",
+    "lastModifiedDateTime": "2023-06-04T08:56:17.062Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    }
+  },
+  {
+    "id": 30552,
+    "summary": "embrace sticky systems",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2023-03-06T00:22:10.372Z",
+    "resolvedDateTime": "2021-10-05T12:11:43.038Z",
+    "lastModifiedDateTime": "2020-12-25T10:18:05.947Z",
+    "reporter": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 54100,
+    "summary": "envisioneer viral deliverables",
+    "type": "phone",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2020-06-28T22:26:03.027Z",
+    "resolvedDateTime": "2022-02-19T15:29:20.961Z",
+    "lastModifiedDateTime": "2021-12-24T18:37:45.590Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    }
+  },
+  {
+    "id": 45561,
+    "summary": "exploit killer ROI",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2023-03-29T04:32:54.374Z",
+    "resolvedDateTime": "2020-01-04T23:34:18.857Z",
+    "lastModifiedDateTime": "2021-11-02T06:11:00.632Z",
+    "reporter": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 27730,
+    "summary": "maximize web-enabled initiatives",
+    "type": "incident",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2022-10-21T21:53:06.949Z",
+    "resolvedDateTime": "2023-03-20T19:55:13.826Z",
+    "lastModifiedDateTime": "2020-03-19T06:03:22.317Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 80241,
+    "summary": "syndicate viral portals",
+    "type": "phone",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2020-07-15T05:31:58.038Z",
+    "resolvedDateTime": "2022-06-03T18:43:50.295Z",
+    "lastModifiedDateTime": "2020-10-20T18:07:06.054Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 26568,
+    "summary": "synergize innovative solutions",
+    "type": "service",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2020-01-12T01:33:27.736Z",
+    "resolvedDateTime": "2023-06-19T16:57:28.342Z",
+    "lastModifiedDateTime": "2021-06-18T15:47:05.971Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    }
+  },
+  {
+    "id": 56902,
+    "summary": "visualize cutting-edge communities",
+    "type": "phone",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2021-10-01T00:48:11.417Z",
+    "resolvedDateTime": "2022-01-24T11:02:29.944Z",
+    "lastModifiedDateTime": "2022-05-20T01:11:51.907Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 23759,
+    "summary": "disintermediate e-business web services",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2021-01-29T06:42:23.751Z",
+    "resolvedDateTime": "2021-08-12T07:58:16.779Z",
+    "lastModifiedDateTime": "2022-11-03T10:01:55.031Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 38976,
+    "summary": "unleash synergistic mindshare",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2020-10-19T05:49:52.511Z",
+    "resolvedDateTime": "2022-09-07T18:10:02.459Z",
+    "lastModifiedDateTime": "2023-03-19T20:55:56.021Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 61693,
+    "summary": "cultivate virtual models",
+    "type": "incident",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2023-04-28T09:18:13.817Z",
+    "resolvedDateTime": "2023-02-09T21:01:44.807Z",
+    "lastModifiedDateTime": "2020-02-12T12:06:21.440Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 91795,
+    "summary": "iterate innovative users",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2021-04-11T06:18:49.648Z",
+    "resolvedDateTime": "2022-07-05T20:36:04.305Z",
+    "lastModifiedDateTime": "2023-03-01T06:54:52.847Z",
+    "reporter": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 69239,
+    "summary": "harness clicks-and-mortar infrastructures",
+    "type": "service",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2023-04-11T15:47:02.821Z",
+    "resolvedDateTime": "2021-07-12T01:07:26.659Z",
+    "lastModifiedDateTime": "2023-01-23T11:10:05.160Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 69405,
+    "summary": "disintermediate value-added paradigms",
+    "type": "service",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2021-02-08T22:14:59.721Z",
+    "resolvedDateTime": "2021-01-08T14:48:33.892Z",
+    "lastModifiedDateTime": "2020-02-10T03:46:04.095Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 45709,
+    "summary": "visualize seamless communities",
+    "type": "phone",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2020-04-15T00:23:17.441Z",
+    "resolvedDateTime": "2022-07-08T17:54:43.783Z",
+    "lastModifiedDateTime": "2020-04-25T20:41:07.010Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    }
+  },
+  {
+    "id": 58298,
+    "summary": "deploy scalable channels",
+    "type": "service",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2021-12-05T18:55:59.864Z",
+    "resolvedDateTime": "2021-05-11T02:00:14.974Z",
+    "lastModifiedDateTime": "2022-10-12T02:10:52.464Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    }
+  },
+  {
+    "id": 38048,
+    "summary": "seize integrated interfaces",
+    "type": "service",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2021-04-21T14:09:15.808Z",
+    "resolvedDateTime": "2020-02-19T03:32:23.088Z",
+    "lastModifiedDateTime": "2023-05-25T22:59:05.466Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 27709,
+    "summary": "transform granular communities",
+    "type": "service",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2021-03-27T21:06:13.774Z",
+    "resolvedDateTime": "2021-01-26T08:28:55.592Z",
+    "lastModifiedDateTime": "2022-10-01T13:02:51.744Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 96022,
+    "summary": "morph dot-com mindshare",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2020-04-05T09:01:21.817Z",
+    "resolvedDateTime": "2023-01-13T18:16:26.979Z",
+    "lastModifiedDateTime": "2022-08-04T06:30:29.328Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 88999,
+    "summary": "target magnetic e-business",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2021-04-25T20:15:30.648Z",
+    "resolvedDateTime": "2022-08-28T08:03:41.910Z",
+    "lastModifiedDateTime": "2023-07-09T14:47:02.655Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 53609,
+    "summary": "extend clicks-and-mortar solutions",
+    "type": "service",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2023-05-23T17:55:45.869Z",
+    "resolvedDateTime": "2021-06-26T14:16:44.018Z",
+    "lastModifiedDateTime": "2020-01-16T13:50:10.394Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 30646,
+    "summary": "maximize dynamic niches",
+    "type": "phone",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2022-05-20T09:22:23.512Z",
+    "resolvedDateTime": "2020-08-06T07:30:39.874Z",
+    "lastModifiedDateTime": "2020-08-18T22:03:11.274Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    }
+  },
+  {
+    "id": 82763,
+    "summary": "seize dynamic blockchains",
+    "type": "service",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2021-11-17T20:48:28.070Z",
+    "resolvedDateTime": "2020-06-06T21:16:47.097Z",
+    "lastModifiedDateTime": "2022-07-05T02:45:20.802Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 87472,
+    "summary": "exploit turn-key deliverables",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2022-06-05T00:10:44.635Z",
+    "resolvedDateTime": "2020-02-26T12:04:45.203Z",
+    "lastModifiedDateTime": "2023-03-27T08:27:20.624Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 44904,
+    "summary": "syndicate efficient convergence",
+    "type": "service",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2023-04-13T18:50:26.739Z",
+    "resolvedDateTime": "2023-02-03T06:22:15.650Z",
+    "lastModifiedDateTime": "2022-11-27T06:15:44.044Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 63467,
+    "summary": "facilitate global metrics",
+    "type": "incident",
+    "priority": "critical",
+    "status": "retail",
+    "createdDateTime": "2021-03-19T19:40:20.487Z",
+    "resolvedDateTime": "2020-06-12T22:33:35.586Z",
+    "lastModifiedDateTime": "2021-08-07T10:21:51.101Z",
+    "reporter": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 74446,
+    "summary": "generate frictionless experiences",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2020-10-27T15:08:42.344Z",
+    "resolvedDateTime": "2023-02-01T11:34:46.165Z",
+    "lastModifiedDateTime": "2021-03-26T18:52:58.342Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 71247,
+    "summary": "engage web-enabled e-markets",
+    "type": "service",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2022-08-01T03:29:01.052Z",
+    "resolvedDateTime": "2022-09-24T16:21:59.363Z",
+    "lastModifiedDateTime": "2023-08-15T05:50:44.285Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 61289,
+    "summary": "e-enable ubiquitous functionalities",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2022-03-07T09:27:10.674Z",
+    "resolvedDateTime": "2020-11-27T05:45:44.569Z",
+    "lastModifiedDateTime": "2021-02-08T10:35:36.292Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 30951,
+    "summary": "facilitate customized users",
+    "type": "phone",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2020-05-20T10:55:32.874Z",
+    "resolvedDateTime": "2022-01-10T17:46:20.077Z",
+    "lastModifiedDateTime": "2020-11-15T12:50:08.715Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 64941,
+    "summary": "maximize value-added e-business",
+    "type": "service",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2021-09-23T21:13:26.525Z",
+    "resolvedDateTime": "2023-05-17T12:00:46.705Z",
+    "lastModifiedDateTime": "2021-08-14T05:06:00.289Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 86588,
+    "summary": "maximize clicks-and-mortar action-items",
+    "type": "service",
+    "priority": "minor",
+    "status": "dev-pending",
+    "createdDateTime": "2022-09-13T14:46:17.242Z",
+    "resolvedDateTime": "2021-04-24T14:57:20.754Z",
+    "lastModifiedDateTime": "2020-08-08T04:16:16.242Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 16519,
+    "summary": "synergize proactive niches",
+    "type": "phone",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2022-06-26T10:29:06.580Z",
+    "resolvedDateTime": "2023-04-03T23:07:20.509Z",
+    "lastModifiedDateTime": "2021-04-23T01:32:24.981Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 48411,
+    "summary": "integrate killer ROI",
+    "type": "service",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2023-07-12T01:57:47.470Z",
+    "resolvedDateTime": "2022-10-01T20:40:22.523Z",
+    "lastModifiedDateTime": "2020-04-16T02:36:18.490Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    }
+  },
+  {
+    "id": 85398,
+    "summary": "utilize cross-platform partnerships",
+    "type": "service",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2022-02-21T22:25:39.239Z",
+    "resolvedDateTime": "2023-03-08T01:50:29.632Z",
+    "lastModifiedDateTime": "2021-07-23T04:05:02.460Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 11670,
+    "summary": "enable intuitive schemas",
+    "type": "incident",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2022-08-13T00:13:14.053Z",
+    "resolvedDateTime": "2021-05-09T07:21:24.871Z",
+    "lastModifiedDateTime": "2023-07-13T00:25:31.803Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 96747,
+    "summary": "unleash open-source ROI",
+    "type": "service",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2021-04-15T07:44:05.596Z",
+    "resolvedDateTime": "2022-03-31T19:57:51.405Z",
+    "lastModifiedDateTime": "2023-08-28T21:04:07.348Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 82449,
+    "summary": "visualize impactful methodologies",
+    "type": "service",
+    "priority": "critical",
+    "status": "retail",
+    "createdDateTime": "2023-05-17T07:33:20.960Z",
+    "resolvedDateTime": "2021-01-04T11:00:51.717Z",
+    "lastModifiedDateTime": "2022-09-27T12:50:16.263Z",
+    "reporter": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 15861,
+    "summary": "synthesize virtual methodologies",
+    "type": "service",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2023-08-06T09:27:24.631Z",
+    "resolvedDateTime": "2022-07-18T10:33:57.047Z",
+    "lastModifiedDateTime": "2023-07-16T04:25:23.925Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 86929,
+    "summary": "streamline web-enabled technologies",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2023-05-09T00:14:46.901Z",
+    "resolvedDateTime": "2020-02-04T03:43:28.544Z",
+    "lastModifiedDateTime": "2022-08-27T21:44:56.094Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 59582,
+    "summary": "synthesize web-enabled ROI",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2020-08-19T11:46:43.715Z",
+    "resolvedDateTime": "2020-09-19T04:41:26.187Z",
+    "lastModifiedDateTime": "2022-06-27T07:52:31.349Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 56452,
+    "summary": "e-enable impactful models",
+    "type": "service",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2023-01-30T23:23:49.270Z",
+    "resolvedDateTime": "2020-05-15T09:31:26.372Z",
+    "lastModifiedDateTime": "2022-07-14T11:00:38.742Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 92708,
+    "summary": "transition collaborative markets",
+    "type": "service",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2020-03-30T05:40:22.322Z",
+    "resolvedDateTime": "2021-12-04T05:13:09.717Z",
+    "lastModifiedDateTime": "2020-07-05T21:59:52.750Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    }
+  },
+  {
+    "id": 98772,
+    "summary": "empower B2B web services",
+    "type": "service",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2023-06-08T14:14:14.199Z",
+    "resolvedDateTime": "2022-07-17T16:26:49.272Z",
+    "lastModifiedDateTime": "2023-05-05T04:13:56.906Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 81769,
+    "summary": "mesh killer niches",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2023-07-17T23:35:33.305Z",
+    "resolvedDateTime": "2023-07-05T15:57:55.103Z",
+    "lastModifiedDateTime": "2022-01-13T23:19:55.619Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    }
+  },
+  {
+    "id": 18968,
+    "summary": "incubate one-to-one markets",
+    "type": "incident",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2022-08-20T09:02:16.035Z",
+    "resolvedDateTime": "2020-10-31T02:19:53.578Z",
+    "lastModifiedDateTime": "2020-04-06T04:59:35.060Z",
+    "reporter": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 52658,
+    "summary": "morph best-of-breed action-items",
+    "type": "service",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2021-09-14T15:01:01.584Z",
+    "resolvedDateTime": "2023-02-16T05:23:25.525Z",
+    "lastModifiedDateTime": "2021-06-09T04:54:20.011Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 42123,
+    "summary": "iterate sexy interfaces",
+    "type": "service",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2021-12-31T04:32:11.519Z",
+    "resolvedDateTime": "2020-01-15T18:59:44.311Z",
+    "lastModifiedDateTime": "2020-05-21T17:33:33.943Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 63363,
+    "summary": "brand mission-critical e-markets",
+    "type": "phone",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2020-02-29T02:25:14.931Z",
+    "resolvedDateTime": "2022-03-25T03:06:25.222Z",
+    "lastModifiedDateTime": "2022-06-23T18:26:37.027Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 86715,
+    "summary": "synthesize revolutionary partnerships",
+    "type": "service",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2020-03-31T06:20:34.605Z",
+    "resolvedDateTime": "2020-11-16T23:23:35.120Z",
+    "lastModifiedDateTime": "2023-03-24T22:28:40.451Z",
+    "reporter": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 33437,
+    "summary": "deploy out-of-the-box initiatives",
+    "type": "service",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2020-07-07T23:13:14.392Z",
+    "resolvedDateTime": "2022-07-07T02:05:06.160Z",
+    "lastModifiedDateTime": "2020-03-06T08:53:54.975Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    }
+  },
+  {
+    "id": 15064,
+    "summary": "morph proactive ROI",
+    "type": "incident",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2021-11-24T11:55:05.189Z",
+    "resolvedDateTime": "2022-07-09T09:32:37.088Z",
+    "lastModifiedDateTime": "2021-05-31T09:21:44.835Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 76121,
+    "summary": "deploy world-class interfaces",
+    "type": "incident",
+    "priority": "minor",
+    "status": "retail",
+    "createdDateTime": "2020-03-28T08:51:44.216Z",
+    "resolvedDateTime": "2021-08-02T02:36:19.917Z",
+    "lastModifiedDateTime": "2022-02-11T08:41:03.175Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 64740,
+    "summary": "envisioneer impactful communities",
+    "type": "service",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2023-07-11T03:36:09.683Z",
+    "resolvedDateTime": "2022-10-25T22:51:05.534Z",
+    "lastModifiedDateTime": "2021-01-13T02:18:47.857Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    }
+  },
+  {
+    "id": 48088,
+    "summary": "syndicate magnetic solutions",
+    "type": "incident",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2021-03-07T18:04:50.950Z",
+    "resolvedDateTime": "2021-01-26T07:27:57.133Z",
+    "lastModifiedDateTime": "2020-03-13T00:20:49.848Z",
+    "reporter": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 74653,
+    "summary": "recontextualize cross-media communities",
+    "type": "phone",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2021-12-17T00:37:53.652Z",
+    "resolvedDateTime": "2021-02-13T00:50:53.470Z",
+    "lastModifiedDateTime": "2022-12-04T18:47:23.819Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 14970,
+    "summary": "monetize web-enabled methodologies",
+    "type": "phone",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2022-02-01T00:44:02.535Z",
+    "resolvedDateTime": "2022-12-28T16:49:28.927Z",
+    "lastModifiedDateTime": "2020-09-12T13:57:50.107Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 68332,
+    "summary": "orchestrate collaborative relationships",
+    "type": "phone",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2021-01-15T02:36:19.081Z",
+    "resolvedDateTime": "2022-05-22T14:02:18.069Z",
+    "lastModifiedDateTime": "2023-03-15T21:10:27.749Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 86079,
+    "summary": "implement global relationships",
+    "type": "phone",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2023-04-30T01:26:39.605Z",
+    "resolvedDateTime": "2023-01-09T15:09:52.014Z",
+    "lastModifiedDateTime": "2023-05-30T09:14:53.590Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 79973,
+    "summary": "engage end-to-end architectures",
+    "type": "incident",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2022-09-23T21:50:47.680Z",
+    "resolvedDateTime": "2020-03-24T20:40:28.395Z",
+    "lastModifiedDateTime": "2023-01-22T06:05:49.827Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 83581,
+    "summary": "transition sexy methodologies",
+    "type": "phone",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2022-01-06T19:33:09.352Z",
+    "resolvedDateTime": "2020-04-21T12:27:16.558Z",
+    "lastModifiedDateTime": "2023-01-17T01:46:25.134Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 36598,
+    "summary": "transform plug-and-play e-business",
+    "type": "phone",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2021-09-08T09:48:59.045Z",
+    "resolvedDateTime": "2021-05-28T08:20:25.947Z",
+    "lastModifiedDateTime": "2022-11-04T01:15:44.211Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    }
+  },
+  {
+    "id": 82147,
+    "summary": "integrate cross-media technologies",
+    "type": "phone",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2020-09-27T15:44:08.571Z",
+    "resolvedDateTime": "2023-08-31T16:02:55.724Z",
+    "lastModifiedDateTime": "2021-07-22T08:23:08.532Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 38186,
+    "summary": "streamline enterprise mindshare",
+    "type": "phone",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2023-02-15T15:04:43.369Z",
+    "resolvedDateTime": "2022-12-04T23:14:12.661Z",
+    "lastModifiedDateTime": "2021-07-02T06:46:33.611Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 59859,
+    "summary": "grow strategic paradigms",
+    "type": "phone",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2022-05-29T18:25:33.916Z",
+    "resolvedDateTime": "2022-06-14T01:25:48.596Z",
+    "lastModifiedDateTime": "2023-06-19T07:59:14.859Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 21532,
+    "summary": "generate real-time architectures",
+    "type": "incident",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2020-06-18T10:02:59.094Z",
+    "resolvedDateTime": "2021-07-21T13:11:40.386Z",
+    "lastModifiedDateTime": "2021-07-18T02:07:36.385Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 87215,
+    "summary": "envisioneer seamless partnerships",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-pending",
+    "createdDateTime": "2021-12-23T12:25:45.521Z",
+    "resolvedDateTime": "2023-01-03T20:24:13.985Z",
+    "lastModifiedDateTime": "2021-10-14T00:47:51.360Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    }
+  },
+  {
+    "id": 83595,
+    "summary": "exploit dot-com platforms",
+    "type": "incident",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2021-11-21T05:07:56.790Z",
+    "resolvedDateTime": "2022-10-18T08:42:28.508Z",
+    "lastModifiedDateTime": "2020-07-10T14:50:03.578Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 50709,
+    "summary": "embrace user-centric metrics",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2020-04-29T23:57:40.980Z",
+    "resolvedDateTime": "2020-08-03T21:23:01.033Z",
+    "lastModifiedDateTime": "2020-12-01T08:01:07.285Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 31381,
+    "summary": "drive sticky interfaces",
+    "type": "incident",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2020-07-04T02:27:50.990Z",
+    "resolvedDateTime": "2022-03-09T16:58:25.468Z",
+    "lastModifiedDateTime": "2020-04-13T00:56:53.456Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 23506,
+    "summary": "engineer e-business communities",
+    "type": "service",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2021-04-13T12:33:08.297Z",
+    "resolvedDateTime": "2021-12-28T19:37:07.812Z",
+    "lastModifiedDateTime": "2020-12-24T23:23:36.665Z",
+    "reporter": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 14135,
+    "summary": "extend efficient e-markets",
+    "type": "incident",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2021-09-13T13:45:17.768Z",
+    "resolvedDateTime": "2022-10-16T17:59:31.674Z",
+    "lastModifiedDateTime": "2022-11-30T13:50:41.271Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 34907,
+    "summary": "recontextualize sticky methodologies",
+    "type": "phone",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2022-09-28T16:39:55.600Z",
+    "resolvedDateTime": "2020-07-19T16:27:59.905Z",
+    "lastModifiedDateTime": "2020-06-14T14:30:46.248Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 80309,
+    "summary": "generate bleeding-edge architectures",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2022-08-31T00:33:50.591Z",
+    "resolvedDateTime": "2020-08-10T12:41:11.084Z",
+    "lastModifiedDateTime": "2021-05-09T12:44:15.471Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 61797,
+    "summary": "grow efficient lifetime value",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2020-11-15T01:08:03.077Z",
+    "resolvedDateTime": "2022-09-01T23:23:44.619Z",
+    "lastModifiedDateTime": "2022-11-03T15:46:29.472Z",
+    "reporter": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 39614,
+    "summary": "deploy B2C initiatives",
+    "type": "service",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2020-08-28T08:59:31.887Z",
+    "resolvedDateTime": "2020-04-27T08:09:26.163Z",
+    "lastModifiedDateTime": "2022-01-02T00:14:53.172Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 46940,
+    "summary": "brand e-business ROI",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2022-07-05T07:13:23.745Z",
+    "resolvedDateTime": "2022-02-14T18:20:17.495Z",
+    "lastModifiedDateTime": "2022-04-14T07:07:02.801Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 41704,
+    "summary": "transition synergistic platforms",
+    "type": "phone",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2021-10-02T16:57:24.801Z",
+    "resolvedDateTime": "2021-05-25T07:51:31.603Z",
+    "lastModifiedDateTime": "2021-04-03T21:36:31.518Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    }
+  },
+  {
+    "id": 48785,
+    "summary": "enhance real-time eyeballs",
+    "type": "incident",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2023-06-30T23:22:07.846Z",
+    "resolvedDateTime": "2022-02-10T18:34:41.303Z",
+    "lastModifiedDateTime": "2023-01-04T08:37:11.291Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 47933,
+    "summary": "whiteboard B2B action-items",
+    "type": "incident",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2022-09-13T05:01:45.464Z",
+    "resolvedDateTime": "2020-03-08T23:04:34.426Z",
+    "lastModifiedDateTime": "2020-07-10T23:26:05.825Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 50563,
+    "summary": "seize cross-media channels",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2021-04-25T13:12:04.210Z",
+    "resolvedDateTime": "2021-12-21T19:14:25.826Z",
+    "lastModifiedDateTime": "2020-07-14T06:10:04.406Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 81679,
+    "summary": "deploy 24/365 infrastructures",
+    "type": "service",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2023-03-27T02:20:20.294Z",
+    "resolvedDateTime": "2022-02-07T04:43:05.537Z",
+    "lastModifiedDateTime": "2020-11-30T23:53:04.476Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    }
+  },
+  {
+    "id": 45954,
+    "summary": "generate 24/7 mindshare",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2020-03-05T12:40:20.491Z",
+    "resolvedDateTime": "2021-12-13T20:34:19.415Z",
+    "lastModifiedDateTime": "2020-06-27T20:18:01.481Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 90818,
+    "summary": "e-enable bleeding-edge niches",
+    "type": "phone",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2022-05-25T21:32:45.719Z",
+    "resolvedDateTime": "2021-12-11T07:20:52.887Z",
+    "lastModifiedDateTime": "2022-10-07T14:27:33.258Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 41330,
+    "summary": "revolutionize dot-com content",
+    "type": "service",
+    "priority": "critical",
+    "status": "retail",
+    "createdDateTime": "2022-08-12T22:03:24.945Z",
+    "resolvedDateTime": "2020-07-18T03:42:17.914Z",
+    "lastModifiedDateTime": "2021-12-19T09:26:56.981Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 41492,
+    "summary": "cultivate ubiquitous relationships",
+    "type": "service",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2022-07-06T16:46:47.206Z",
+    "resolvedDateTime": "2021-04-13T09:18:08.851Z",
+    "lastModifiedDateTime": "2023-04-12T20:23:59.685Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 66124,
+    "summary": "facilitate one-to-one metrics",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2021-02-19T20:49:01.078Z",
+    "resolvedDateTime": "2021-05-23T00:09:28.350Z",
+    "lastModifiedDateTime": "2022-07-16T17:28:04.733Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 91057,
+    "summary": "empower seamless action-items",
+    "type": "service",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2021-08-13T23:57:17.448Z",
+    "resolvedDateTime": "2022-08-26T17:23:52.417Z",
+    "lastModifiedDateTime": "2023-04-13T22:50:32.318Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 87662,
+    "summary": "optimize value-added e-business",
+    "type": "incident",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2022-03-03T17:54:38.760Z",
+    "resolvedDateTime": "2022-06-30T09:54:05.058Z",
+    "lastModifiedDateTime": "2022-11-22T07:10:33.802Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 53348,
+    "summary": "extend dynamic web services",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2020-09-01T10:42:33.482Z",
+    "resolvedDateTime": "2022-03-05T19:11:25.493Z",
+    "lastModifiedDateTime": "2020-08-31T14:03:10.496Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 23429,
+    "summary": "enhance virtual partnerships",
+    "type": "service",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2020-12-28T19:56:16.429Z",
+    "resolvedDateTime": "2020-04-07T09:04:10.749Z",
+    "lastModifiedDateTime": "2020-12-24T23:57:28.427Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 23664,
+    "summary": "repurpose wireless lifetime value",
+    "type": "service",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2023-08-28T00:57:39.774Z",
+    "resolvedDateTime": "2023-05-14T00:45:25.585Z",
+    "lastModifiedDateTime": "2021-10-04T16:03:04.177Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    }
+  },
+  {
+    "id": 93480,
+    "summary": "innovate holistic eyeballs",
+    "type": "incident",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2021-12-05T13:36:04.671Z",
+    "resolvedDateTime": "2020-04-15T07:43:35.113Z",
+    "lastModifiedDateTime": "2022-12-09T22:26:18.715Z",
+    "reporter": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    },
+    "assignee": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    }
+  },
+  {
+    "id": 51864,
+    "summary": "reintermediate proactive niches",
+    "type": "phone",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2021-12-21T00:01:16.777Z",
+    "resolvedDateTime": "2021-03-03T23:27:06.259Z",
+    "lastModifiedDateTime": "2023-07-14T08:43:32.480Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 89645,
+    "summary": "enable innovative systems",
+    "type": "phone",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2020-11-02T09:02:01.914Z",
+    "resolvedDateTime": "2020-02-15T22:49:49.641Z",
+    "lastModifiedDateTime": "2020-05-16T06:50:58.791Z",
+    "reporter": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 52608,
+    "summary": "scale integrated paradigms",
+    "type": "phone",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2020-09-26T22:14:15.495Z",
+    "resolvedDateTime": "2021-03-15T14:50:34.613Z",
+    "lastModifiedDateTime": "2023-03-31T02:48:19.360Z",
+    "reporter": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 43074,
+    "summary": "visualize vertical partnerships",
+    "type": "incident",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2021-09-21T01:59:17.150Z",
+    "resolvedDateTime": "2022-06-14T16:08:31.482Z",
+    "lastModifiedDateTime": "2022-04-29T11:43:17.408Z",
+    "reporter": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    },
+    "assignee": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    }
+  },
+  {
+    "id": 69726,
+    "summary": "streamline virtual synergies",
+    "type": "service",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2023-05-01T15:31:13.646Z",
+    "resolvedDateTime": "2022-12-20T05:27:31.119Z",
+    "lastModifiedDateTime": "2022-03-27T01:01:50.905Z",
+    "reporter": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    },
+    "assignee": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    }
+  },
+  {
+    "id": 81057,
+    "summary": "syndicate vertical e-markets",
+    "type": "phone",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2020-02-29T04:36:46.396Z",
+    "resolvedDateTime": "2020-12-16T09:04:54.768Z",
+    "lastModifiedDateTime": "2020-04-30T20:10:40.231Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 88402,
+    "summary": "maximize clicks-and-mortar convergence",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2020-07-17T05:24:35.845Z",
+    "resolvedDateTime": "2020-12-05T05:12:23.767Z",
+    "lastModifiedDateTime": "2022-11-10T14:41:00.187Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 37695,
+    "summary": "exploit vertical schemas",
+    "type": "service",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2022-08-31T07:08:57.739Z",
+    "resolvedDateTime": "2020-02-08T09:21:24.471Z",
+    "lastModifiedDateTime": "2021-08-22T01:59:48.693Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 66178,
+    "summary": "unleash robust mindshare",
+    "type": "phone",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2023-07-08T04:38:55.148Z",
+    "resolvedDateTime": "2020-05-10T20:46:37.300Z",
+    "lastModifiedDateTime": "2022-09-14T13:12:01.602Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    }
+  },
+  {
+    "id": 98238,
+    "summary": "exploit value-added paradigms",
+    "type": "phone",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2023-04-02T09:19:59.493Z",
+    "resolvedDateTime": "2023-08-06T05:39:14.447Z",
+    "lastModifiedDateTime": "2020-12-14T02:18:38.431Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 15756,
+    "summary": "extend e-business platforms",
+    "type": "incident",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2022-05-27T10:54:48.913Z",
+    "resolvedDateTime": "2023-08-05T03:46:27.866Z",
+    "lastModifiedDateTime": "2020-11-15T23:56:52.301Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    }
+  },
+  {
+    "id": 34169,
+    "summary": "syndicate distributed architectures",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2020-11-06T21:47:05.101Z",
+    "resolvedDateTime": "2020-06-29T05:16:09.921Z",
+    "lastModifiedDateTime": "2022-12-09T14:46:36.462Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 45096,
+    "summary": "maximize intuitive architectures",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2022-05-06T02:41:09.947Z",
+    "resolvedDateTime": "2022-08-16T09:45:08.884Z",
+    "lastModifiedDateTime": "2022-11-14T09:46:03.427Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 17854,
+    "summary": "extend cutting-edge supply-chains",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2021-03-20T10:07:41.001Z",
+    "resolvedDateTime": "2021-08-24T23:43:10.626Z",
+    "lastModifiedDateTime": "2021-04-11T15:25:43.724Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    }
+  },
+  {
+    "id": 11561,
+    "summary": "empower scalable mindshare",
+    "type": "incident",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2020-08-31T09:26:20.602Z",
+    "resolvedDateTime": "2020-11-10T19:06:38.446Z",
+    "lastModifiedDateTime": "2021-05-22T18:26:37.128Z",
+    "reporter": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    },
+    "assignee": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    }
+  },
+  {
+    "id": 12574,
+    "summary": "incubate best-of-breed technologies",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2021-10-28T03:23:15.587Z",
+    "resolvedDateTime": "2023-02-12T04:14:53.349Z",
+    "lastModifiedDateTime": "2023-02-13T06:03:14.422Z",
+    "reporter": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 57767,
+    "summary": "architect 24/7 convergence",
+    "type": "phone",
+    "priority": "medium",
+    "status": "resolved",
+    "createdDateTime": "2023-05-08T18:25:38.735Z",
+    "resolvedDateTime": "2020-04-18T12:40:21.869Z",
+    "lastModifiedDateTime": "2023-03-28T17:46:10.036Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    }
+  },
+  {
+    "id": 34932,
+    "summary": "empower viral portals",
+    "type": "service",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2021-11-22T03:51:40.775Z",
+    "resolvedDateTime": "2022-10-04T13:39:42.534Z",
+    "lastModifiedDateTime": "2021-08-08T05:59:40.826Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    }
+  },
+  {
+    "id": 80808,
+    "summary": "transform best-of-breed convergence",
+    "type": "phone",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2022-08-06T07:48:31.671Z",
+    "resolvedDateTime": "2022-04-02T06:13:38.899Z",
+    "lastModifiedDateTime": "2020-04-17T12:11:17.709Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    }
+  },
+  {
+    "id": 63864,
+    "summary": "morph B2B technologies",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2022-08-23T11:05:46.863Z",
+    "resolvedDateTime": "2020-01-23T10:43:25.484Z",
+    "lastModifiedDateTime": "2022-01-02T15:17:11.038Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 59424,
+    "summary": "monetize bleeding-edge architectures",
+    "type": "service",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2023-06-12T22:06:41.631Z",
+    "resolvedDateTime": "2023-05-07T16:33:04.706Z",
+    "lastModifiedDateTime": "2020-06-06T22:04:03.951Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 53342,
+    "summary": "optimize cross-media eyeballs",
+    "type": "incident",
+    "priority": "minor",
+    "status": "support",
+    "createdDateTime": "2020-12-23T14:19:11.578Z",
+    "resolvedDateTime": "2023-06-25T12:53:54.945Z",
+    "lastModifiedDateTime": "2023-07-29T01:52:57.519Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    }
+  },
+  {
+    "id": 27485,
+    "summary": "maximize next-generation ROI",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2020-07-30T04:45:17.574Z",
+    "resolvedDateTime": "2021-02-08T01:01:25.875Z",
+    "lastModifiedDateTime": "2021-05-07T23:16:37.650Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 11830,
+    "summary": "visualize clicks-and-mortar content",
+    "type": "incident",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2020-11-15T13:39:19.644Z",
+    "resolvedDateTime": "2020-02-23T07:22:24.739Z",
+    "lastModifiedDateTime": "2020-04-16T19:25:13.541Z",
+    "reporter": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 34638,
+    "summary": "reinvent plug-and-play bandwidth",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2021-04-06T04:07:26.964Z",
+    "resolvedDateTime": "2022-10-20T08:42:18.477Z",
+    "lastModifiedDateTime": "2023-07-17T18:12:34.409Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 51500,
+    "summary": "harness seamless platforms",
+    "type": "incident",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2022-01-09T03:07:22.732Z",
+    "resolvedDateTime": "2023-06-24T15:42:26.137Z",
+    "lastModifiedDateTime": "2020-04-25T11:36:20.314Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 11221,
+    "summary": "brand best-of-breed schemas",
+    "type": "phone",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2022-05-25T00:16:57.436Z",
+    "resolvedDateTime": "2021-10-01T18:27:54.205Z",
+    "lastModifiedDateTime": "2020-07-01T17:59:44.203Z",
+    "reporter": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    },
+    "assignee": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    }
+  },
+  {
+    "id": 55202,
+    "summary": "transition transparent eyeballs",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2023-06-17T20:45:21.701Z",
+    "resolvedDateTime": "2021-12-26T20:20:40.569Z",
+    "lastModifiedDateTime": "2023-06-30T04:54:53.147Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 55666,
+    "summary": "seize rich blockchains",
+    "type": "incident",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2022-09-07T17:42:41.432Z",
+    "resolvedDateTime": "2021-05-11T11:27:25.403Z",
+    "lastModifiedDateTime": "2021-12-14T11:34:24.028Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    }
+  },
+  {
+    "id": 34222,
+    "summary": "recontextualize cross-media partnerships",
+    "type": "phone",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2023-08-22T21:06:43.179Z",
+    "resolvedDateTime": "2020-01-22T23:42:31.824Z",
+    "lastModifiedDateTime": "2021-07-26T09:52:55.243Z",
+    "reporter": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    },
+    "assignee": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    }
+  },
+  {
+    "id": 87105,
+    "summary": "deliver next-generation networks",
+    "type": "service",
+    "priority": "minor",
+    "status": "retail",
+    "createdDateTime": "2020-11-14T14:00:01.160Z",
+    "resolvedDateTime": "2022-01-31T03:45:02.793Z",
+    "lastModifiedDateTime": "2020-10-25T10:10:55.892Z",
+    "reporter": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 68969,
+    "summary": "syndicate open-source communities",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2023-08-16T13:08:46.113Z",
+    "resolvedDateTime": "2022-11-29T22:21:05.126Z",
+    "lastModifiedDateTime": "2020-10-11T11:00:04.203Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 60637,
+    "summary": "benchmark extensible content",
+    "type": "phone",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2023-01-02T03:24:17.147Z",
+    "resolvedDateTime": "2022-05-17T13:24:51.546Z",
+    "lastModifiedDateTime": "2020-11-21T09:22:06.474Z",
+    "reporter": {
+      "id": "f18f9b4d-c253-4287-98cb-8d3f7e44d9b1",
+      "firstName": "Linwood",
+      "lastName": "Reichert"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 67040,
+    "summary": "architect turn-key interfaces",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2023-03-19T10:52:48.793Z",
+    "resolvedDateTime": "2022-07-06T16:32:06.504Z",
+    "lastModifiedDateTime": "2020-10-06T22:11:01.905Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 47809,
+    "summary": "deploy next-generation models",
+    "type": "service",
+    "priority": "critical",
+    "status": "retail",
+    "createdDateTime": "2023-02-03T12:49:39.416Z",
+    "resolvedDateTime": "2023-06-29T20:55:14.096Z",
+    "lastModifiedDateTime": "2021-08-02T01:29:19.222Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    }
+  },
+  {
+    "id": 81261,
+    "summary": "recontextualize intuitive synergies",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2021-05-17T22:15:58.450Z",
+    "resolvedDateTime": "2022-07-02T10:46:44.246Z",
+    "lastModifiedDateTime": "2023-02-25T09:10:29.020Z",
+    "reporter": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    },
+    "assignee": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    }
+  },
+  {
+    "id": 32401,
+    "summary": "disintermediate one-to-one applications",
+    "type": "phone",
+    "priority": "minor",
+    "status": "retail",
+    "createdDateTime": "2023-02-05T02:56:21.323Z",
+    "resolvedDateTime": "2022-03-17T17:53:02.765Z",
+    "lastModifiedDateTime": "2023-05-04T12:43:52.531Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    }
+  },
+  {
+    "id": 27219,
+    "summary": "streamline robust e-commerce",
+    "type": "service",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2022-08-23T13:22:35.096Z",
+    "resolvedDateTime": "2022-07-07T13:22:58.892Z",
+    "lastModifiedDateTime": "2020-04-02T21:51:12.369Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 24957,
+    "summary": "benchmark visionary content",
+    "type": "incident",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2021-08-23T06:36:17.410Z",
+    "resolvedDateTime": "2020-11-25T06:58:27.687Z",
+    "lastModifiedDateTime": "2023-02-05T01:19:55.695Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 26343,
+    "summary": "enable collaborative metrics",
+    "type": "incident",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2022-10-09T01:14:23.382Z",
+    "resolvedDateTime": "2023-07-23T02:39:18.055Z",
+    "lastModifiedDateTime": "2021-06-18T09:44:18.033Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 58953,
+    "summary": "exploit dot-com methodologies",
+    "type": "service",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2021-07-01T01:31:55.139Z",
+    "resolvedDateTime": "2021-06-13T19:09:03.573Z",
+    "lastModifiedDateTime": "2021-09-14T15:08:34.352Z",
+    "reporter": {
+      "id": "50f2f631-776f-483b-be6a-8f2705476b23",
+      "firstName": "Hermina",
+      "lastName": "Shanahan"
+    },
+    "assignee": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    }
+  },
+  {
+    "id": 86805,
+    "summary": "utilize out-of-the-box paradigms",
+    "type": "phone",
+    "priority": "major",
+    "status": "review-charge",
+    "createdDateTime": "2021-10-28T10:18:36.582Z",
+    "resolvedDateTime": "2020-10-27T11:42:55.597Z",
+    "lastModifiedDateTime": "2020-09-17T00:13:57.760Z",
+    "reporter": {
+      "id": "ad10f98e-f0c5-4921-bf7a-920244af11c3",
+      "firstName": "Josefina",
+      "lastName": "Casper"
+    },
+    "assignee": {
+      "id": "bde23bb6-32c3-45cd-8c47-c03ff1e3bc18",
+      "firstName": "Jarrod",
+      "lastName": "Koepp"
+    }
+  },
+  {
+    "id": 46159,
+    "summary": "matrix open-source infrastructures",
+    "type": "service",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2022-08-11T21:56:50.041Z",
+    "resolvedDateTime": "2022-05-23T20:56:07.719Z",
+    "lastModifiedDateTime": "2021-03-08T19:22:52.194Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  },
+  {
+    "id": 47401,
+    "summary": "facilitate clicks-and-mortar paradigms",
+    "type": "phone",
+    "priority": "minor",
+    "status": "review-charge",
+    "createdDateTime": "2020-07-13T19:52:40.179Z",
+    "resolvedDateTime": "2022-07-04T18:04:43.321Z",
+    "lastModifiedDateTime": "2023-02-09T00:16:37.174Z",
+    "reporter": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    },
+    "assignee": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    }
+  },
+  {
+    "id": 53257,
+    "summary": "orchestrate proactive e-commerce",
+    "type": "service",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2022-10-06T05:16:12.358Z",
+    "resolvedDateTime": "2021-01-12T14:37:05.977Z",
+    "lastModifiedDateTime": "2020-08-15T19:37:45.615Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    }
+  },
+  {
+    "id": 26584,
+    "summary": "streamline out-of-the-box platforms",
+    "type": "incident",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2022-06-23T05:39:25.899Z",
+    "resolvedDateTime": "2021-10-22T02:10:12.661Z",
+    "lastModifiedDateTime": "2023-05-17T03:54:02.899Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 54398,
+    "summary": "exploit e-business experiences",
+    "type": "incident",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2021-07-07T02:45:35.345Z",
+    "resolvedDateTime": "2023-04-02T04:03:16.598Z",
+    "lastModifiedDateTime": "2023-05-06T04:17:21.803Z",
+    "reporter": {
+      "id": "68c6838c-be2d-4934-aa07-5891fe9cb077",
+      "firstName": "Lisette",
+      "lastName": "Bergnaum"
+    },
+    "assignee": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    }
+  },
+  {
+    "id": 83259,
+    "summary": "engineer wireless portals",
+    "type": "phone",
+    "priority": "major",
+    "status": "support",
+    "createdDateTime": "2021-05-26T04:11:19.179Z",
+    "resolvedDateTime": "2021-07-15T00:19:20.334Z",
+    "lastModifiedDateTime": "2022-11-27T09:14:32.929Z",
+    "reporter": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    },
+    "assignee": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    }
+  },
+  {
+    "id": 80087,
+    "summary": "syndicate scalable networks",
+    "type": "incident",
+    "priority": "minor",
+    "status": "dev-completed",
+    "createdDateTime": "2023-01-06T20:33:36.879Z",
+    "resolvedDateTime": "2021-08-19T15:42:41.959Z",
+    "lastModifiedDateTime": "2021-07-01T16:59:02.301Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 17481,
+    "summary": "monetize B2B content",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-completed",
+    "createdDateTime": "2021-08-22T18:48:18.397Z",
+    "resolvedDateTime": "2021-04-28T13:42:39.969Z",
+    "lastModifiedDateTime": "2022-01-25T22:41:23.926Z",
+    "reporter": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 81490,
+    "summary": "target world-class content",
+    "type": "phone",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2020-05-03T23:29:24.012Z",
+    "resolvedDateTime": "2021-04-15T00:08:15.155Z",
+    "lastModifiedDateTime": "2022-12-09T00:06:43.245Z",
+    "reporter": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    },
+    "assignee": {
+      "id": "7daf18d0-bf88-4a40-8a2e-3a9795e2d467",
+      "firstName": "Marcellus",
+      "lastName": "King"
+    }
+  },
+  {
+    "id": 76736,
+    "summary": "target seamless mindshare",
+    "type": "service",
+    "priority": "medium",
+    "status": "review-charge",
+    "createdDateTime": "2022-02-15T15:54:54.912Z",
+    "resolvedDateTime": "2021-12-15T12:50:07.143Z",
+    "lastModifiedDateTime": "2022-04-28T16:22:28.506Z",
+    "reporter": {
+      "id": "d2d9783a-0cdb-411d-b836-73f5dad7b2db",
+      "firstName": "Leilani",
+      "lastName": "Waters"
+    },
+    "assignee": {
+      "id": "17d8c43a-466b-4bb3-8d6c-2bb1a7b5eee6",
+      "firstName": "Virginia",
+      "lastName": "Stroman"
+    }
+  },
+  {
+    "id": 61875,
+    "summary": "optimize efficient partnerships",
+    "type": "phone",
+    "priority": "critical",
+    "status": "dev-completed",
+    "createdDateTime": "2022-02-24T23:09:11.862Z",
+    "resolvedDateTime": "2023-06-25T10:30:38.428Z",
+    "lastModifiedDateTime": "2020-03-24T12:08:34.256Z",
+    "reporter": {
+      "id": "408db0cd-dd58-48c1-9162-428db264db8b",
+      "firstName": "Quinton",
+      "lastName": "Cartwright"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 63541,
+    "summary": "seize frictionless paradigms",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-completed",
+    "createdDateTime": "2020-06-17T04:11:34.126Z",
+    "resolvedDateTime": "2020-07-05T19:24:43.236Z",
+    "lastModifiedDateTime": "2022-05-14T21:07:13.843Z",
+    "reporter": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    },
+    "assignee": {
+      "id": "67bb4738-f03a-413f-81e4-da7868827639",
+      "firstName": "Gustave",
+      "lastName": "Stokes"
+    }
+  },
+  {
+    "id": 55536,
+    "summary": "engineer global initiatives",
+    "type": "phone",
+    "priority": "minor",
+    "status": "retail",
+    "createdDateTime": "2021-03-05T07:27:15.392Z",
+    "resolvedDateTime": "2022-09-12T21:40:35.886Z",
+    "lastModifiedDateTime": "2022-05-07T16:11:12.442Z",
+    "reporter": {
+      "id": "9c71691f-2218-48ce-b9af-1f2897237f63",
+      "firstName": "Okey",
+      "lastName": "Hand"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 21888,
+    "summary": "facilitate distributed markets",
+    "type": "service",
+    "priority": "critical",
+    "status": "dev-pending",
+    "createdDateTime": "2022-08-18T10:08:53.576Z",
+    "resolvedDateTime": "2021-03-21T04:03:20.693Z",
+    "lastModifiedDateTime": "2022-01-08T15:16:20.931Z",
+    "reporter": {
+      "id": "54c4f31b-2eee-4911-8a54-f0fb86a8c40b",
+      "firstName": "Avis",
+      "lastName": "Bode"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 18162,
+    "summary": "enhance plug-and-play metrics",
+    "type": "incident",
+    "priority": "major",
+    "status": "resolved",
+    "createdDateTime": "2020-01-28T15:39:06.424Z",
+    "resolvedDateTime": "2021-01-09T13:49:51.913Z",
+    "lastModifiedDateTime": "2021-03-08T21:17:58.363Z",
+    "reporter": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    },
+    "assignee": {
+      "id": "16ba1fbe-2bca-4321-8fbc-de55df099280",
+      "firstName": "Jude",
+      "lastName": "Boyer"
+    }
+  },
+  {
+    "id": 54933,
+    "summary": "productize user-centric interfaces",
+    "type": "phone",
+    "priority": "critical",
+    "status": "support",
+    "createdDateTime": "2020-04-28T16:50:37.577Z",
+    "resolvedDateTime": "2020-12-27T21:26:17.738Z",
+    "lastModifiedDateTime": "2022-02-02T08:06:34.101Z",
+    "reporter": {
+      "id": "1f8ccfe9-b427-42e8-867b-a9faead4bf97",
+      "firstName": "Angelica",
+      "lastName": "Howell"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 77121,
+    "summary": "redefine granular schemas",
+    "type": "incident",
+    "priority": "minor",
+    "status": "retail",
+    "createdDateTime": "2023-01-04T21:35:48.292Z",
+    "resolvedDateTime": "2020-08-28T02:32:46.182Z",
+    "lastModifiedDateTime": "2020-08-10T10:46:33.386Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "ff28c47f-dd2e-4b01-9de8-194841f6ebab",
+      "firstName": "Rocky",
+      "lastName": "Morissette"
+    }
+  },
+  {
+    "id": 82751,
+    "summary": "grow cutting-edge technologies",
+    "type": "phone",
+    "priority": "medium",
+    "status": "retail",
+    "createdDateTime": "2021-03-10T20:57:27.724Z",
+    "resolvedDateTime": "2022-01-11T19:07:13.092Z",
+    "lastModifiedDateTime": "2021-06-26T16:07:19.264Z",
+    "reporter": {
+      "id": "eb366804-4a23-46ba-ac94-bc270559bb48",
+      "firstName": "Ericka",
+      "lastName": "Littel"
+    },
+    "assignee": {
+      "id": "d3d4dafa-06c6-45ae-af78-46f81c0be8db",
+      "firstName": "Alanis",
+      "lastName": "Gleason"
+    }
+  },
+  {
+    "id": 92702,
+    "summary": "iterate front-end ROI",
+    "type": "phone",
+    "priority": "minor",
+    "status": "resolved",
+    "createdDateTime": "2021-06-06T04:17:34.636Z",
+    "resolvedDateTime": "2021-10-18T22:58:32.612Z",
+    "lastModifiedDateTime": "2022-06-22T14:45:36.290Z",
+    "reporter": {
+      "id": "d7112cd6-2eee-4472-a304-2248e14337db",
+      "firstName": "Hollie",
+      "lastName": "Becker"
+    },
+    "assignee": {
+      "id": "03b265a6-4b66-478f-b8cd-63b84fbe273f",
+      "firstName": "Llewellyn",
+      "lastName": "Jones"
+    }
+  },
+  {
+    "id": 19157,
+    "summary": "empower global portals",
+    "type": "service",
+    "priority": "major",
+    "status": "retail",
+    "createdDateTime": "2020-12-08T05:43:44.267Z",
+    "resolvedDateTime": "2021-05-26T14:01:00.183Z",
+    "lastModifiedDateTime": "2020-11-05T14:14:42.665Z",
+    "reporter": {
+      "id": "b9f67584-dff6-4342-83fa-0a8e76a16197",
+      "firstName": "Arjun",
+      "lastName": "Swift"
+    },
+    "assignee": {
+      "id": "ce0700a4-637d-4439-9488-2a117870efc0",
+      "firstName": "Kyle",
+      "lastName": "Buckridge"
+    }
+  },
+  {
+    "id": 25411,
+    "summary": "embrace magnetic lifetime value",
+    "type": "incident",
+    "priority": "medium",
+    "status": "support",
+    "createdDateTime": "2023-03-03T03:26:37.483Z",
+    "resolvedDateTime": "2022-10-30T15:28:42.528Z",
+    "lastModifiedDateTime": "2023-01-11T14:57:04.513Z",
+    "reporter": {
+      "id": "8224fda7-998c-4adf-af90-450330744f28",
+      "firstName": "Kallie",
+      "lastName": "Boehm"
+    },
+    "assignee": {
+      "id": "3fe9bbb2-5dc3-48a3-b66f-580880d4624f",
+      "firstName": "Camila",
+      "lastName": "Rippin"
+    }
+  },
+  {
+    "id": 51010,
+    "summary": "transition vertical architectures",
+    "type": "phone",
+    "priority": "critical",
+    "status": "resolved",
+    "createdDateTime": "2022-02-16T23:28:30.318Z",
+    "resolvedDateTime": "2022-06-01T18:11:49.198Z",
+    "lastModifiedDateTime": "2021-01-27T03:18:45.446Z",
+    "reporter": {
+      "id": "37a8c173-774c-47d4-80ed-df9cd4d241e3",
+      "firstName": "Tressie",
+      "lastName": "Kshlerin"
+    },
+    "assignee": {
+      "id": "e4003c21-2e6e-461b-97b2-10bdaabbc924",
+      "firstName": "Helmer",
+      "lastName": "Lemke"
+    }
+  },
+  {
+    "id": 56014,
+    "summary": "strategize customized eyeballs",
+    "type": "service",
+    "priority": "major",
+    "status": "dev-pending",
+    "createdDateTime": "2020-03-03T09:10:19.667Z",
+    "resolvedDateTime": "2021-04-09T23:13:22.003Z",
+    "lastModifiedDateTime": "2021-07-27T17:00:50.470Z",
+    "reporter": {
+      "id": "aa86c9ab-bba1-410a-bb8a-4203ad8d59e0",
+      "firstName": "Jayme",
+      "lastName": "Schmidt"
+    },
+    "assignee": {
+      "id": "142da9a0-8364-4c15-898f-5d2b41ecb10b",
+      "firstName": "Bryana",
+      "lastName": "Johns"
+    }
+  },
+  {
+    "id": 53003,
+    "summary": "enhance intuitive convergence",
+    "type": "service",
+    "priority": "critical",
+    "status": "review-charge",
+    "createdDateTime": "2021-10-28T21:22:36.990Z",
+    "resolvedDateTime": "2021-09-29T02:18:23.291Z",
+    "lastModifiedDateTime": "2021-04-18T15:08:49.623Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "5f60f224-5ef5-422f-966d-e30889674678",
+      "firstName": "Clinton",
+      "lastName": "Okuneva"
+    }
+  },
+  {
+    "id": 37376,
+    "summary": "enable scalable partnerships",
+    "type": "incident",
+    "priority": "medium",
+    "status": "dev-pending",
+    "createdDateTime": "2023-04-20T11:07:51.760Z",
+    "resolvedDateTime": "2021-06-19T07:34:28.408Z",
+    "lastModifiedDateTime": "2021-05-01T22:49:15.066Z",
+    "reporter": {
+      "id": "6762e1b3-7f89-46e2-bb4d-c686f0225b73",
+      "firstName": "Geo",
+      "lastName": "Kohler"
+    },
+    "assignee": {
+      "id": "00f7515e-bda7-40ce-812c-4d5f2bd248c9",
+      "firstName": "Terence",
+      "lastName": "Block"
+    }
+  }
+]

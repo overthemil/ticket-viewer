@@ -22,7 +22,7 @@ const NavbarMobile: React.FC<MobileNavbarLinksProps> = ({links, className, ...pr
       <SheetTrigger>
         <Button variant="outline" size="icon" className={className} {...props}>
           <Menu className="h-[1.2rem] w-[1.2rem]" />
-          <span className="sr-only">Create Ticket</span>
+          <span className="sr-only">Open mobile navbar</span>
         </Button>
       </SheetTrigger>
       <SheetContent side="left" className="pr-8">
