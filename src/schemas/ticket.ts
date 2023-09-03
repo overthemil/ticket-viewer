@@ -8,6 +8,8 @@ export const ticketSummarySchema = z.object({
   type: z.enum(["incident", "phone", "service"]),
   priority: z.enum(["minor", "medium", "major", "critical"]),
   status: z.enum(["support", "retail", "dev-pending", "dev-completed", "review-charge", "resolved"]),
+  company: z.enum(["bp", "shell", "chevron", "exxon", "petrochina", "aramco"]),
+  queue: z.enum(["me", "triage", "level2", "level3", "retail"]),
   createdDateTime: z.date(),
   resolvedDateTime: z.date(),
   lastModifiedDateTime: z.date(),
@@ -89,5 +91,55 @@ export const ticketStatusOptions = [
   {
     value: "resolved",
     label: "Resolved",
+  }
+]
+
+export const companyOptions = [
+  {
+    value: "bp",
+    label: "BP",
+  },
+  {
+    value: "shell",
+    label: "Shell",
+  },
+  {
+    value: "chevron",
+    label: "Chevron",
+  },
+  {
+    value: "aramco",
+    label: "Aramco",
+  },
+  {
+    value: "exxon",
+    label: "Exxon",
+  },
+  {
+    value: "petrochina",
+    label: "Petro China",
+  }
+]
+
+export const queueOptions = [
+  {
+    value: "me",
+    label: "Waiting on Me",
+  },
+  {
+    value: "triage",
+    label: "Support Triage",
+  },
+  {
+    value: "level2",
+    label: "Level 2 Support",
+  },
+  {
+    value: "level3",
+    label: "Level 3 Support",
+  },
+  {
+    value: "retail",
+    label: "Retail Support",
   }
 ]

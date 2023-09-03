@@ -6,7 +6,7 @@ import { DataTableViewOptions } from "@/components/data-table/data-table-view-op
 
 import { DataTableFacetedFilter } from "./data-table-faceted-filter"
 import { X } from "lucide-react"
-import { ticketPrioritiesOptions, ticketStatusOptions } from "@/schemas/ticket"
+import { companyOptions, queueOptions, ticketPrioritiesOptions, ticketStatusOptions } from "@/schemas/ticket"
 
 interface DataTableToolbarProps<TData> {
   table: Table<TData>
@@ -28,6 +28,20 @@ export function DataTableToolbar<TData>({
           }
           className="h-8 w-[150px] lg:w-[250px]"
         />
+        {table.getColumn("queue") && (
+          <DataTableFacetedFilter
+            column={table.getColumn("queue")}
+            title="Queue"
+            options={queueOptions}
+          />
+        )}
+        {table.getColumn("company") && (
+          <DataTableFacetedFilter
+            column={table.getColumn("company")}
+            title="Company"
+            options={companyOptions}
+          />
+        )}
         {table.getColumn("status") && (
           <DataTableFacetedFilter
             column={table.getColumn("status")}

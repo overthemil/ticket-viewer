@@ -1,7 +1,7 @@
 import { ColumnDef } from "@tanstack/react-table"
 
 import { DataTableColumnHeader } from "@/components/data-table/data-table-column-header"
-import { TicketSummary, ticketPrioritiesOptions, ticketStatusOptions } from "@/schemas/ticket"
+import { TicketSummary, companyOptions, queueOptions, ticketPrioritiesOptions, ticketStatusOptions } from "@/schemas/ticket"
 import { User } from "@/schemas/user"
 
 export const columns: ColumnDef<TicketSummary>[] = [
@@ -29,10 +29,23 @@ export const columns: ColumnDef<TicketSummary>[] = [
         return null
       }
 
+      const getIconStyle = () => {
+        switch(priority.value) {
+          case "minor":
+            return `mr-2 h-4 w-4 stroke-[#075985]`;
+          case "medium":
+            return `mr-2 h-4 w-4 stroke-[#fde047]`;
+          case "major":
+            return `mr-2 h-4 w-4 stroke-[#fb923c]`;
+          case "critical":
+            return `mr-2 h-4 w-4 stroke-[#ef4444]`;
+        }
+      }
+
       return (
         <div className="flex w-[100px] items-center">
           {priority.icon && (
-            <priority.icon className="mr-2 h-4 w-4 text-muted-foreground"/>
+            <priority.icon className={getIconStyle()}/>
           )}
           <span>{priority.label}</span>
         </div>
@@ -60,6 +73,33 @@ export const columns: ColumnDef<TicketSummary>[] = [
       return (
         <div className="flex w-[100px] items-center">
           <span>{status.label}</span>
+        </div>
+      )
+    },
+    filterFn: (row, id, value) => {
+      return value.includes(row.getValue(id))
+    },
+  },
+  {
+    accessorKey: "queue",
+    header: ({ column }) => (
+      <DataTableColumnHeader column={column} title="Queue" />
+    ),
+    enableSorting: false,
+    cell: ({ row }) => {
+      const queue = queueOptions.find(
+        (data) => data.value === row.getValue("queue")
+      )
+
+      if (!queue) {
+        return null
+      }
+
+      return (
+        <div className="flex space-x-2">
+          <span className="max-w-[500px] truncate font-medium">
+            {`${queue.label}`}
+          </span>
         </div>
       )
     },
@@ -98,6 +138,33 @@ export const columns: ColumnDef<TicketSummary>[] = [
           </span>
         </div>
       )
+    },
+  },
+  {
+    accessorKey: "company",
+    header: ({ column }) => (
+      <DataTableColumnHeader column={column} title="Company" />
+    ),
+    enableSorting: false,
+    cell: ({ row }) => {
+      const company = companyOptions.find(
+        (company) => company.value === row.getValue("company")
+      )
+
+      if (!company) {
+        return null
+      }
+
+      return (
+        <div className="flex space-x-2">
+          <span className="max-w-[500px] truncate font-medium">
+            {`${company.label}`}
+          </span>
+        </div>
+      )
+    },
+    filterFn: (row, id, value) => {
+      return value.includes(row.getValue(id))
     },
   },
   {

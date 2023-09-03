@@ -90,6 +90,56 @@ export const ticketStatusOptions = [
   }
 ]
 
+export const companyOptions = [
+  {
+    value: "bp",
+    label: "BP",
+  },
+  {
+    value: "shell",
+    label: "Shell",
+  },
+  {
+    value: "chevron",
+    label: "Chevron",
+  },
+  {
+    value: "aramco",
+    label: "Aramco",
+  },
+  {
+    value: "exxon",
+    label: "Exxon",
+  },
+  {
+    value: "petrochina",
+    label: "Petro China",
+  }
+]
+
+export const queueOptions = [
+  {
+    value: "me",
+    label: "Waiting on Me",
+  },
+  {
+    value: "triage",
+    label: "Support Triage",
+  },
+  {
+    value: "level2",
+    label: "Level 2 Support",
+  },
+  {
+    value: "level3",
+    label: "Level 3 Support",
+  },
+  {
+    value: "retail",
+    label: "Retail Support",
+  }
+]
+
 console.log("Generating...");
 
 /**
@@ -122,6 +172,8 @@ const tickets = Array.from({length: 300}, () => ({
   lastModifiedDateTime: faker.date.betweens({ from: '2020-01-01T00:00:00.000Z', to: '2023-09-01T00:00:00.000Z', count: 1 }).at(0),
   reporter: faker.helpers.arrayElement(users),
   assignee: faker.helpers.arrayElement(users),
+  company: faker.helpers.arrayElement(companyOptions).value,
+  queue: faker.helpers.arrayElement(queueOptions).value,
 }));
 fs.writeFileSync(
   path.join(__dirname, "tickets.json"),
