@@ -1,7 +1,10 @@
+import CommentCard from "@/components/comment-card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Bug, Equal } from "lucide-react";
+import data from '@/schemas/ticket-comments.json';
+import { TicketComment } from "@/interfaces/TicketComment";
 
 function TicketActions() {
   return (
@@ -38,6 +41,7 @@ function TicketDetails() {
 }
 
 function Ticket() {
+  const comments: TicketComment[] = data;
   return (
     <>
       <div className="m-auto max-w-6xl p-8">
@@ -46,6 +50,13 @@ function Ticket() {
         <Separator className="mt-2 mb-2"/>
         <TicketDetails />
         <Separator className="mt-2 mb-2"/>
+        <div className="space-y-8">
+          {
+            comments.map((comment) => 
+              <CommentCard comment={comment}/>
+            )
+          }
+        </div>
       </div>
     </>
   );

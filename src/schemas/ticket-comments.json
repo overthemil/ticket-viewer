@@ -1,0 +1,26 @@
+[
+  {
+    "author": "John Doe",
+    "date": "31/08/2023 8:14 am",
+    "comment": "Hello,\n\nCould you explain how this web app works?\n\nRegards,\n\nJohn", 
+    "reporter": true
+  },
+  {
+    "author": "Pedro Alves",
+    "date": "31/08/2023 10:38 am",
+    "comment": "Hi,\n\nThe project is split into numerous folders:\n\t- Components: Contains reusable components\n\t- Interfaces: Typescript types\n\t- Layouts: The overall layout of the site (currently only the MainLayout with the Navbar you see)\n\t- Pages: Child components displayed inside a route (ex. the Tickets table)\n\t- Routes: The content to display under the Navbar depending on the URL\n\t- Schemas: Zod schemas used for data validation and parsing\n\nYou many find the source code for the site here: https://github.com/overthemil/ticket-viewer\n\nThis screenshot shows the project layout:",
+    "img": true
+  },
+  {
+    "author": "John Doe",
+    "date": "01/09/2023 2:03 pm",
+    "comment": "Thanks!", 
+    "reporter": true
+  },
+  {
+    "author": "Pedro Alves",
+    "date": "31/08/2023 8:14 am",
+    "comment": "Marking resolved soon", 
+    "internal": true
+  }
+]
